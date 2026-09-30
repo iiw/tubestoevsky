@@ -4,6 +4,8 @@ Downloads a YouTube video transcript and turns it into literary prose through a 
 
 Works with any OpenAI-compatible chat completions API: a local gateway, Ollama, vLLM, OpenAI, or anything else speaking that protocol.
 
+Available on PyPI as [tubestoevsky](https://pypi.org/project/tubestoevsky/).
+
 ## How it works
 
 ```
