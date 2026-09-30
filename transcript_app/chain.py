@@ -1,4 +1,4 @@
-"""LangChain chain: sequential LLM calls through a LiteLLM router.
+"""LangChain chain: sequential LLM calls through an OpenAI-compatible API.
 
 Pipeline (each step waits for the previous result):
 1. raw transcript -> prose            (PROSE_PROMPT)
@@ -14,7 +14,7 @@ from typing import TypedDict
 
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnableLambda, RunnableSequence
-from langchain_litellm import ChatLiteLLM
+from langchain_openai import ChatOpenAI
 
 from .config import Config
 from .prompts import MARKDOWN_PROMPT, PROSE_PROMPT, TITLE_PROMPT
@@ -28,29 +28,25 @@ class PipelineState(TypedDict, total=False):
     markdown: str
 
 
-def build_llm(cfg: Config) -> ChatLiteLLM:
-    # the litellm client needs a provider prefix; a LiteLLM router is an
-    # OpenAI-compatible endpoint: openai/<model name on the router>
-    model = cfg.model if "/" in cfg.model else f"openai/{cfg.model}"
-    return ChatLiteLLM(
-        model=model,
-        api_base=cfg.base_url,
+def build_llm(cfg: Config) -> ChatOpenAI:
+    return ChatOpenAI(
+        model=cfg.model,
+        base_url=cfg.base_url,
         api_key=cfg.api_key,
         temperature=cfg.temperature,
         request_timeout=cfg.timeout,
-        # the LiteLLM router works reliably through /v1/chat/completions;
-        # the Responses API (/v1/responses) causes endless retries
+        # many gateways only implement /v1/chat/completions, so stay on it
         use_responses_api=False,
-        # httpx asks for gzip by default, which makes the LiteLLM proxy hang on
-        # large responses. Request an uncompressed response instead.
-        extra_headers={"Accept-Encoding": "identity"},
+        # some OpenAI-compatible proxies hang on large gzip-compressed
+        # responses; request an uncompressed body instead
+        default_headers={"Accept-Encoding": "identity"},
     )
 
 
 def _run_streaming(chain, inputs: dict) -> str:
     """Run an LCEL chain in streaming mode and collect the text.
 
-    Streaming is not about progress: the LiteLLM proxy reliably returns
+    Streaming is not about progress: some gateways reliably return
     uncompressed chunks, while a monolithic large response may hang.
     """
     return "".join(part for part in chain.stream(inputs) if part)

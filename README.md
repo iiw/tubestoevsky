@@ -1,6 +1,8 @@
 # TubeStoevsky
 
-Downloads a YouTube video transcript and turns it into literary prose through a LangChain LLM chain served by a LiteLLM router — outputs `TXT` + `MD`.
+Downloads a YouTube video transcript and turns it into literary prose through a LangChain LLM chain — outputs `TXT` + `MD`.
+
+Works with any OpenAI-compatible chat completions API: a local gateway, Ollama, vLLM, OpenAI, or anything else speaking that protocol.
 
 ## How it works
 
@@ -16,7 +18,7 @@ URL
 
 ```bash
 uv sync
-cp .env.example .env   # set LITELLM_API_KEY
+cp .env.example .env   # set LLM_API_KEY
 ```
 
 ## Usage
@@ -24,16 +26,16 @@ cp .env.example .env   # set LITELLM_API_KEY
 ```bash
 uv run python -m transcript_app <URL>
 uv run python -m transcript_app <URL> --lang en --out ./out
-uv run python -m transcript_app <URL> --model deepseek-flash
+uv run python -m transcript_app <URL> --model gpt-4o-mini
 ```
 
 ## Configuration (`.env`)
 
 | Variable | Purpose | Default |
 |---|---|---|
-| `LITELLM_BASE_URL` | LiteLLM router address | `http://127.0.0.1:4000` |
-| `LITELLM_API_KEY` | router master key | **required** |
-| `LITELLM_MODEL` | model name on the router | `glm-5-3` |
+| `LLM_BASE_URL` | OpenAI-compatible endpoint (`/v1` appended when absent) | `http://127.0.0.1:4000` |
+| `LLM_API_KEY` | API key for that endpoint | **required** |
+| `LLM_MODEL` | model name served by it | `gpt-4o-mini` |
 | `TRANSCRIPT_LANG` | subtitle language | `en` |
 | `OUTPUT_DIR` | output directory | `.` |
 | `LLM_TEMPERATURE` | sampling temperature | `0.3` |
@@ -48,13 +50,13 @@ transcript_app/
   config.py      .env + CLI flags
   downloader.py  yt-dlp
   srt.py         subtitle parser
-  chain.py       LangChain/LiteLLM chain
+  chain.py       LangChain chain over the API
   prompts.py     step prompts
   outputs.py     .txt/.md writers
 ```
 
 ## Notes
 
-- LLM steps stream: the LiteLLM proxy sometimes fails to return monolithic responses.
-- `Accept-Encoding: identity` and `use_responses_api=False` work around router hangs.
+- LLM steps stream: some gateways fail to return monolithic responses.
+- `Accept-Encoding: identity` and `use_responses_api=False` work around proxy hangs.
 - Run long requests in the foreground.

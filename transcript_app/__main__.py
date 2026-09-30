@@ -1,4 +1,4 @@
-"""CLI: download a transcript and turn it into prose via LangChain/LiteLLM.
+"""CLI: download a transcript and turn it into prose via LangChain + an LLM API.
 
 Example:
     uv run python -m transcript_app https://youtu.be/elj0o9QLo1g --lang en --out ../
@@ -20,7 +20,7 @@ from .srt import srt_to_raw_text
 def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         prog="transcript_app",
-        description="Download a YouTube transcript and rewrite it as prose (LiteLLM + LangChain).",
+        description="Download a YouTube transcript and rewrite it as prose (OpenAI-compatible API + LangChain).",
     )
     parser.add_argument("url", help="video URL")
     parser.add_argument(
@@ -28,7 +28,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         help="subtitle language, 2-letter locale (de, en, ...); defaults to .env TRANSCRIPT_LANG",
     )
     parser.add_argument("--out", help="output directory; defaults to .env OUTPUT_DIR")
-    parser.add_argument("--model", help="model name on the LiteLLM router; defaults to .env LITELLM_MODEL")
+    parser.add_argument("--model", help="model name served by the API; defaults to .env LLM_MODEL")
     return parser.parse_args(argv)
 
 

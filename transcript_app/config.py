@@ -1,4 +1,8 @@
-"""Application configuration: .env plus CLI overrides."""
+"""Application configuration: .env plus CLI overrides.
+
+The LLM endpoint is any OpenAI-compatible chat completions API. Nothing here
+is tied to a specific gateway implementation.
+"""
 
 from __future__ import annotations
 
@@ -9,6 +13,19 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
+
+
+def _normalize_base_url(raw: str) -> str:
+    """Point the URL at the API root: add /v1 when no path is given.
+
+    Accepts both "http://host:4000" and "http://host:4000/v1".
+    """
+    url = raw.strip().rstrip("/")
+    if not url:
+        return url
+    path = url.split("://", 1)[-1].split("/", 1)
+    has_path = len(path) > 1 and path[1]
+    return url if has_path else f"{url}/v1"
 
 
 @dataclass(frozen=True)
@@ -33,15 +50,15 @@ def load_config(
     load_dotenv(PROJECT_ROOT / ".env")
     load_dotenv(PROJECT_ROOT / ".env.example", override=False)
 
-    base_url = os.getenv("LITELLM_BASE_URL", "http://127.0.0.1:4000").rstrip("/")
-    api_key = os.getenv("LITELLM_API_KEY", "")
+    base_url = _normalize_base_url(os.getenv("LLM_BASE_URL", "http://127.0.0.1:4000"))
+    api_key = os.getenv("LLM_API_KEY", "")
     if not api_key:
-        raise SystemExit("LITELLM_API_KEY is not set: fill in .env (see .env.example)")
+        raise SystemExit("LLM_API_KEY is not set: fill in .env (see .env.example)")
 
     return Config(
         base_url=base_url,
         api_key=api_key,
-        model=model or os.getenv("LITELLM_MODEL", "glm-5-3"),
+        model=model or os.getenv("LLM_MODEL", "gpt-4o-mini"),
         lang=(lang or os.getenv("TRANSCRIPT_LANG", "en")).lower(),
         output_dir=Path(output_dir or os.getenv("OUTPUT_DIR", ".")).expanduser().resolve(),
         temperature=float(os.getenv("LLM_TEMPERATURE", "0.3")),
