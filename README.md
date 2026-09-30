@@ -46,6 +46,15 @@ is read from the current directory, the project root, or
 
 ## Usage
 
+Install globally and run with an inline API key:
+
+```bash
+uv tool install tubestoevsky
+LLM_API_KEY='sk-xxxxx' tubestoevsky --lang en --model qwen3.8-27b https://youtu.be/q0aFOxT6TNw
+```
+
+Other examples:
+
 ```bash
 tubestoevsky <URL>
 tubestoevsky <URL> --lang en --out ./out
