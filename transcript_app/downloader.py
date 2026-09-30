@@ -5,9 +5,21 @@ are taken in the order "<lang>-orig" (original speech) -> "<lang>".
 from __future__ import annotations
 
 import re
+import unicodedata
 from pathlib import Path
 
 import yt_dlp
+
+# Device names that Windows still reserves, with or without an extension.
+_WINDOWS_RESERVED = {
+    "CON",
+    "PRN",
+    "AUX",
+    "NUL",
+} | {f"COM{i}" for i in range(1, 10)} | {f"LPT{i}" for i in range(1, 10)}
+
+# Most filesystems cap a single name at 255 bytes; leave room for ".120.srt".
+_MAX_BASENAME_BYTES = 200
 
 
 class SubtitlesNotFoundError(Exception):
@@ -22,9 +34,33 @@ class SubtitlesNotFoundError(Exception):
 
 
 def sanitize_filename(name: str) -> str:
-    name = re.sub(r"[\\/:*?\"<>|\n\r\t]", "-", name)
-    name = re.sub(r"\s+", " ", name).strip().strip(".")
+    """Return a filesystem- and URL-safe basename.
+
+    Keeps Unicode letters, digits, ASCII hyphen, underscore, and dot.
+    Spaces become hyphens; all other characters are replaced with hyphens.
+    """
+    normalized = unicodedata.normalize("NFKC", name)
+    cleaned: list[str] = []
+    for char in normalized:
+        if char.isalnum() or char in "._-":
+            cleaned.append(char)
+        else:
+            cleaned.append("-")
+    name = "".join(cleaned)
+    name = re.sub(r"-{2,}", "-", name).strip("-._")
+    # "NUL" and "NUL.txt" are both reserved on Windows, so check the stem.
+    if name.split(".", 1)[0].upper() in _WINDOWS_RESERVED:
+        name = f"{name}-file"
+
+    if len(name.encode("utf-8")) > _MAX_BASENAME_BYTES:
+        name = _truncate_bytes(name, _MAX_BASENAME_BYTES).strip("-._")
     return name or "transcript"
+
+
+def _truncate_bytes(name: str, limit: int) -> str:
+    """Cut a string at a UTF-8 byte budget without splitting a character."""
+    encoded = name.encode("utf-8")[:limit]
+    return encoded.decode("utf-8", errors="ignore")
 
 
 def _yt_options(**extra: dict) -> dict:
@@ -99,16 +135,20 @@ def download_subtitles(
         ydl.download([url])
 
     # yt-dlp may overwrite an existing file, so look for the expected name
-    # rather than diffing the directory
+    # rather than diffing the directory. Compare sanitized stems, because
+    # yt-dlp's own title sanitization differs from ours.
+    stem = sanitize_filename(video_title)
+    suffix = f".{sub_code}.srt"
     candidates = [expected] if expected.exists() else [
-        p for p in out_dir.glob(f"*{sub_code}.srt")
-        if sanitize_filename(video_title) in p.name
+        path
+        for path in sorted(out_dir.glob(f"*{suffix}"))
+        if sanitize_filename(path.name.removesuffix(suffix)) == stem
     ]
     if not candidates:
         raise RuntimeError("yt-dlp finished, but no .srt was found")
 
     # canonical name: sanitized title -> matching .srt/.txt/.md
-    canonical = out_dir / f"{sanitize_filename(video_title)}.srt"
+    canonical = out_dir / f"{stem}.srt"
     srt_path = candidates[0]
     if srt_path != canonical:
         srt_path.replace(canonical)

@@ -51,7 +51,7 @@ Example run:
 ```console
 $ tubestoevsky --lang en --model deepseek-flash https://youtu.be/q0aFOxT6TNw
 [1/4] Downloading subtitles (en) via yt-dlp ...
-      -> iPhone 17 Pro Review- Paradox in a Box.srt
+      -> iPhone-17-Pro-Review-Paradox-in-a-Box.srt
 [2/4] Parsing SRT, deduplicating lines ...
       -> 2349 words (raw text: 12816 chars)
 [3/4] LangChain chain (deepseek-flash via http://127.0.0.1:4000/v1) ...
@@ -64,15 +64,15 @@ $ tubestoevsky --lang en --model deepseek-flash https://youtu.be/q0aFOxT6TNw
       -> prose: 2300 words, title: "iPhone 17 Pro Review: The Most Pro iPhone for the Masses"
 [4/4] Writing .txt and .md ...
 Done:
-  ./iPhone 17 Pro Review- Paradox in a Box.srt
-  ./iPhone 17 Pro Review- Paradox in a Box.txt
-  ./iPhone 17 Pro Review- Paradox in a Box.md
+  ./iPhone-17-Pro-Review-Paradox-in-a-Box.srt
+  ./iPhone-17-Pro-Review-Paradox-in-a-Box.txt
+  ./iPhone-17-Pro-Review-Paradox-in-a-Box.md
 ```
 
 Full generated output is available in [`examples/`](./examples):
-[transcript](./examples/iPhone%2017%20Pro%20Review-%20Paradox%20in%20a%20Box.srt),
-[prose](./examples/iPhone%2017%20Pro%20Review-%20Paradox%20in%20a%20Box.txt),
-and [Markdown](./examples/iPhone%2017%20Pro%20Review-%20Paradox%20in%20a%20Box.md).
+[transcript](./examples/iPhone-17-Pro-Review-Paradox-in-a-Box.srt),
+[prose](./examples/iPhone-17-Pro-Review-Paradox-in-a-Box.txt),
+and [Markdown](./examples/iPhone-17-Pro-Review-Paradox-in-a-Box.md).
 
 Install globally and run with an inline API key:
 
