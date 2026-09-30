@@ -12,7 +12,18 @@ from pathlib import Path
 
 from dotenv import load_dotenv
 
-PROJECT_ROOT = Path(__file__).resolve().parents[1]
+PACKAGE_ROOT = Path(__file__).resolve().parents[1]
+
+
+def _env_locations() -> list[Path]:
+    """Where to look for .env, in order of precedence.
+
+    Works both from a checkout (project root) and from an installed package
+    (current working directory, then an optional ~/.config/tubestoevsky/.env).
+    """
+    locations = [Path.cwd() / ".env", PACKAGE_ROOT / ".env"]
+    locations.append(Path.home() / ".config" / "tubestoevsky" / ".env")
+    return locations
 
 
 def _normalize_base_url(raw: str) -> str:
@@ -47,8 +58,9 @@ def load_config(
     model: str | None = None,
 ) -> Config:
     """Read .env (project root) and apply CLI overrides."""
-    load_dotenv(PROJECT_ROOT / ".env")
-    load_dotenv(PROJECT_ROOT / ".env.example", override=False)
+    for env_file in _env_locations():
+        if env_file.is_file():
+            load_dotenv(env_file, override=False)
 
     base_url = _normalize_base_url(os.getenv("LLM_BASE_URL", "http://127.0.0.1:4000"))
     api_key = os.getenv("LLM_API_KEY", "")

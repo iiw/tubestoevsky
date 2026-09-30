@@ -17,16 +17,32 @@ URL
 ## Install
 
 ```bash
+# as a CLI tool
+uv tool install tubestoevsky   # or: pip install tubestoevsky
+tubestoevsky --help
+
+# from a checkout, for development
 uv sync
-cp .env.example .env   # set LLM_API_KEY
 ```
+
+## Configuration
+
+Copy [`.env.example`](./.env.example) to `.env` and set `LLM_API_KEY`.
+The file is read from the current directory, the project root, or
+`~/.config/tubestoevsky/.env`.
 
 ## Usage
 
 ```bash
+tubestoevsky <URL>
+tubestoevsky <URL> --lang en --out ./out
+tubestoevsky <URL> --model gpt-4o-mini
+
+# or without installing:
+uvx tubestoevsky <URL>
+
+# from a checkout:
 uv run python -m transcript_app <URL>
-uv run python -m transcript_app <URL> --lang en --out ./out
-uv run python -m transcript_app <URL> --model gpt-4o-mini
 ```
 
 ## Configuration (`.env`)
