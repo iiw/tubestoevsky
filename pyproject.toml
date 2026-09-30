@@ -1,6 +1,6 @@
 [project]
 name = "tubestoevsky"
-version = "1.0.0"
+version = "1.0.1"
 description = "Turn YouTube transcripts into literary prose with an LLM"
 readme = "README.md"
 license = "MIT"
