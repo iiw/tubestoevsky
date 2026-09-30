@@ -27,9 +27,20 @@ uv sync
 
 ## Configuration
 
-Copy [`.env.example`](./.env.example) to `.env` and set `LLM_API_KEY`.
-The file is read from the current directory, the project root, or
+Copy [`.env.example`](./.env.example) to `.env` and set `LLM_API_KEY`. The file
+is read from the current directory, the project root, or
 `~/.config/tubestoevsky/.env`.
+
+| Variable | Purpose | Default |
+|---|---|---|
+| `LLM_BASE_URL` | OpenAI-compatible endpoint (`/v1` appended when absent) | `http://127.0.0.1:4000` |
+| `LLM_API_KEY` | API key for that endpoint | **required** |
+| `LLM_MODEL` | model name served by it | `gpt-4o-mini` |
+| `TRANSCRIPT_LANG` | subtitle language | `en` |
+| `OUTPUT_DIR` | output directory | `.` |
+| `LLM_TEMPERATURE` | sampling temperature | `0.3` |
+| `LLM_TIMEOUT` | request timeout, sec | `1800` |
+| `YTDLP_COOKIES` / `YTDLP_COOKIES_FROM_BROWSER` | access to restricted videos | — |
 
 ## Usage
 
@@ -44,19 +55,6 @@ uvx tubestoevsky <URL>
 # from a checkout:
 uv run python -m transcript_app <URL>
 ```
-
-## Configuration (`.env`)
-
-| Variable | Purpose | Default |
-|---|---|---|
-| `LLM_BASE_URL` | OpenAI-compatible endpoint (`/v1` appended when absent) | `http://127.0.0.1:4000` |
-| `LLM_API_KEY` | API key for that endpoint | **required** |
-| `LLM_MODEL` | model name served by it | `gpt-4o-mini` |
-| `TRANSCRIPT_LANG` | subtitle language | `en` |
-| `OUTPUT_DIR` | output directory | `.` |
-| `LLM_TEMPERATURE` | sampling temperature | `0.3` |
-| `LLM_TIMEOUT` | request timeout, sec | `1800` |
-| `YTDLP_COOKIES` / `YTDLP_COOKIES_FROM_BROWSER` | access to restricted videos | — |
 
 ## Layout
 
