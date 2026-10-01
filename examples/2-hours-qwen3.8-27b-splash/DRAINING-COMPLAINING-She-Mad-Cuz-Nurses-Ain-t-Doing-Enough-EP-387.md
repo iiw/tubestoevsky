@@ -1,0 +1,1623 @@
+# Fleckus Talks Podcast Episode 387
+
+> **Video transcript as prose.** Source: https://youtu.be/_EXl0js4JvA?si=Y0N2mj1Qt9LROSZ2.
+
+---
+
+All right, welcome back to Fleckus Talks, the podcast, episode 387. Today on the show, Sarah Huckabee Sanders spits in our face with a really tone-deaf ad. We're going to show it to you. Then, in Cringe of the Week, we have an incapable worker section you're not going to want to miss. It's very funny. After that, I got a ticket in Southeast Georgia that's going to be three points on my license unless one of you can make it go away. And last but not least, in Urban Decay, a dad pulls a gun to save his son from getting beat up, and people online think he was in the wrong. We're going to discuss all this and more. It's Fleckus Talks, the podcast, episode 387, ranked the best news podcast of all time.
+
+Because words are just words until action actually starts. And actions speak louder than words, but at the same time, words speak louder than actions, because sometimes it's the right thing to do. Very cool.
+
+Sweat Stocks podcast, featuring Richard Brown. Richard.
+
+All right. One for one on the intro, as always, guys. Fluoride. The government has been medicating your water with it for over eighty years. Not because you asked for it, not because you voted for it, because they decided you need it. I don't want anyone making that decision for me. That's why every drop of water in my house is filtered with Cove Pure. Over 209 million Americans are on fluoridated water right now. And here's what the science actually shows. In September of 2024, a federal judge ruled that adding fluoride to water poses—and I'm quoting the court directly—an unreasonable risk to neurological health. Not a fringe study. A federal court ordered the EPA to act. Then in January 2025, a study published by JAMA Pediatrics, one of the most respected medical journals in the world, confirmed a link between fluoride exposure and children's IQ scores. The higher the exposure, the lower the IQ. Sure, some states are moving on this. Florida and Utah just banned fluoride in the water, but that process takes years, and your family, your friends, your children are drinking fluoridated water right now. You need something that works now. And that's exactly what Cove Pure is. Its ClearWave reverse osmosis technology is certified to remove up to 99.9% of contaminants. Fluoride, PFAS, lead, pharmaceuticals, heavy metals—anything that isn't water gets filtered out. I love my Cove Pure. It was super easy to set up. It's basically plug-and-play. The water tastes great, and it looks really sleek, and it makes my kitchen look nice. So don't wait for the government to catch up and take the fluoride out of the water for you. Get a Cove Pure today. Use my link and you'll get $250 off. Go to covepure.com/fleckus. That's covepure.com/fleckus. $250 off. Thank you to Cove Pure for sponsoring.
+
+Let's get into housekeeping.
+
+All right. Thank you to Cove Pure for sponsoring. Thank you, Cove Pure. I love my Cove Pure. And you want to know another technique I use with it?
+
+Well, I'm going to tell you. I use my Cove Pure to fill up pots of water for where I'm boiling water, boiling rice, boiling pasta, and I use the Cove Pure water for that. So it's a full 360 win, it's called.
+
+There you go.
+
+Welcome back, everybody. Hope you enjoyed the week off. Thank you to the members who signed up and joined and enjoyed our content on Tuesday and Friday—the football highlight tape and the Rich Rapo show. Very well received.
+
+Yeah, the Rich Rapo show. We filmed that before the Lindsay Clancy stuff. So there was a point we made about finding someone guilty and insane that Utah does, which was a very unique point. So go watch it. Rich Rapo show. Pretty good.
+
+And then the football highlight tape. Check that out.
+
+Yeah, sure. That's killing those kids. Gotta keep reliving.
+
+All right. I just got back from a vacation. It was a lovely time. I want to tell you guys a little about it, because I took some notes.
+
+Okay.
+
+I took the Hummer on this road trip. It was 850 miles each way. Hummer did great.
+
+Okay.
+
+Eight miles to the gallon. Hummer did what it could. You mean?
+
+But it did great. Hummer was hauling ass, but it's just not built to go far. So I had to constantly keep refilling it with gas. It runs on gas.
+
+Yeah. I think the audience is aware.
+
+And then basically you just start going and you put it on like 80 mph cruise control, and then the fuel gauge just—
+
+You can actually see it move. Yeah. It's like the minute or the second hand on a watch. You can see the gas gauge go, you know. So it's basically like, I don't know, 100 minutes of driving and then you fill it up again. So that was fun. And then I have a picture here. $130 for 26 gallons of premium.
+
+Wow.
+
+32-gallon tank, only takes premium. And I saw you said on your Instagram story, "Thanks, Joe Biden," for that one, which is good at this point.
+
+It's a good bit. Joe Biden. I did that sticker.
+
+But people are messaging me like, "Trump, too." And it's like—
+
+Obviously it's a joke. We're in a stupid war with Iran that never ends.
+
+Yeah. But then I saw this funny tweet: "Just filled up my car. I'm okay with Iran having a nuclear weapon." That's how I felt, too.
+
+Yeah, me too. I don't know anything about Iran.
+
+Me, too. But here I am at the tank doing 26 gallons of premium, and I feel like an idiot.
+
+I know about the pump. I'm at the pump. I might not know about geopolitical stuff or the straight—
+
+Yeah. And this—I mean, I actually, we had a conversation before the show, because there's a lot of VVC stuff going on, a little less Byron Donald's stuff, but and gas, the Iran conflict, it's you know, fuel cost, and diesel specifically is an input cost for everything. So in an inflationary environment that hurts, and it's now we're a little more than a month away from the midterms, and it's getting old. But we kind of did discuss tempering our slander of certain people, just to not hurt the GOP, because obviously the alternative for a lot of the GOP candidates is even worse. But I don't know. So I'm taking my foot off the gas—my bare foot off the gas—on VVC, where I'm swarming.
+
+So not many miles per gallon on VVC.
+
+Yeah. All right. Like I mentioned in the intro, I did get pulled over in Southeast Georgia, and it was because a cop was pulled over on the left, pulling someone over next to the fast lane.
+
+Thought you were supposed to pull over on the right.
+
+Mhm. And then I just drove by him, and then he got in the car, ran me down. And he was like, "Oh, you didn't move over or slow down coming by me." And then he goes, "What were you going? 80 miles an hour?" And the speed limit was 70. So I said, "I think I was going 70." Yeah, just kind of lying to his face, respectfully.
+
+And he starts writing the ticket immediately. Doesn't—
+
+And then I hand him my folder with my license, registration, and proof of insurance, and 20 police badges, and friend-of-police badges, and PBA cards, and everything. Everything that's been sent to the PO box over the last six years or whatever. It's like a binder of me being a friend of the police. And he goes, "Oh, you can keep the police-friend stuff. You should know better."
+
+Yeah, that works against you. A true friend of the police would change lanes.
+
+That's exactly it. And then I said, "Well, I just want you to know I'm a friend of the police." And he goes, "Doesn't matter." So I knew I was getting the ticket. But basically, it's three points on my license because I failed to move over. But he was on the left side. Does his dash cam show that I could have moved over? Was it clear? Did I not slow down?
+
+Your honor, I'd like to inquire on a few of these questions. You go in a Sears sucker suit to a South Georgia court.
+
+Yeah. Plead your case. We're going to have to miss a week from now, you know, to—
+
+So if one of you guys is a judge, a cop, a legal person, a ticket-get-rid-of-her guy, a fixer—he's looking for a fixer. I'm looking for a fixer in Southeast Georgia. Please email me at advertising@fleckustalks.com. Advertising, fleckustalks.com. I will respond to that email personally if you can help me. Please. I need to do that. Otherwise, I'm just taking the three points and whatever.
+
+Okay, we're not gonna get bogged down in the road trip, but I went to Bess's. And I'm not a Bess's fanboy, and I know it's late. Everyone knows about Bess's. But I was really impressed. I stopped in the Bess's in Georgia at 2:00 a.m., and there were people making fudge.
+
+2 a.m.
+
+At 2 a.m. So, like, "Oh, what's your job?" "Oh, I'm a middle-of-the-night fudge maker at Bess's."
+
+The overnight fudge manager. Yeah. It was insane. And then I saw this sign out front that they're hiring. The general manager at Bess's makes up to 300K a year.
+
+Yeah.
+
+The assistant manager, what is that? 175.
+
+Yeah. To 250. We've talked about this before. We've shown this.
+
+What is going on? You make 400K monitoring the Rice Krispies or whatever.
+
+At a certain point, the top-tier retail locations in America—like Costco, Walmart, a Bess's—like, those revenue numbers are insane. So it's worth it to pay somebody.
+
+So we all gotta just go work at Bess's.
+
+No experience required. They give you 300K. Hey, you're going to have to work your way up. And it starts at the 2 a.m. fudge shift, though. So that's the problem, I guess.
+
+Midnight fudge bakery. Make 500 grand.
+
+And then I was getting updates from the pet place that Jerry stays at, the boarding facility for the dogs. And then they send me a picture every day to show me he's doing well. And this is one of the pictures.
+
+It's like AI. His legs are twisted or mangled.
+
+So it's like, all right, good to see he's doing well.
+
+I think he's okay.
+
+He's feral.
+
+Yeah. All right. Well, let's get into the actual show. I wanted to start with the poll. I realized that we have the ability to do polls here on YouTube. And this one was something that you posted on Twitter and it went very viral, and people were very engaged with it. So I wanted to bring it here, too. It's called "How American Are You?" And it goes: Grade A, colonial old stock. Grade B, antebellum stock. Grade C, Ellis Islanders. And the dates are kind of wrong, too. Grade D, new arrivals, 1975 to present. The ink is fading on this, and then there's like four sub-grades after this, like "migrants before Joe Biden," and then—
+
+Joe Biden migrant. Yeah.
+
+Joe Biden. Who those aren't even counted on this list, but I said I'm a C on this chart, and if it gets to that point and you guys really need me to, I'll leave, because I'm mostly late 1800s from both sides.
+
+Very cool. And I'm early 1900s Ellis Island. Um, grandparents. So that's very cool. Let us know in the poll which kind of American you are. And I think that's kind of a cool topic. And let us know in the comments, too. There's some good stuff to talk about.
+
+Okay.
+
+All right. Speaking of—
+
+Yeah, a lot of people want to tell you if they're old, if they're colonial stock, and I'll start taking orders, too. I actually have to defer to you. I, you know—
+
+Yeah.
+
+Both of us.
+
+I'm down. That's who the real Americans are.
+
+Standing back and standing by for colonial old stock recommendations.
+
+Speaking of polls, some Democrat poll just came out that kind of shows how insane the left has gotten when it comes to Trump and what they want to do to him.
+
+Yeah. And this is just like another refresher. Sometimes it gets a few months away from when you saw Charlie Kirk get assassinated and you kind of think, "Oh, they just want healthcare or something. We can all come together and accept that that was bad, right?" Unfortunately, they're still polling insane stuff. And so the gist of this is: Democrats want Trump out by almost any means necessary. And the poll question was, "If you woke up tomorrow morning and saw the following news headlines, how would you feel?" And they're all related to Trump losing power, facing repercussions, or potentially dying. "President Donald Trump has been impeached and convicted by both houses of Congress and has been removed from office." Of course, that's a liar dream. 75% support that. "Using the 25th Amendment to the Constitution, President Donald Trump has been declared unfit by a majority of his cabinet." 70% like that or are very positive about that. "President Donald Trump died overnight in his sleep." 45% are very positive about that. And then that 10% is somewhat positive. To safeguard the Constitution, a group of U.S. military leaders have removed President Donald Trump from power and assumed control of the United States. So that's a coup. And over—I think over or about 60—
+
+61% like that.
+
+Or somewhat or very positive. And then finally, "Donald Trump was assassinated while speaking at a rally." And 23% felt very positive about that. 9% somewhat positive. So—
+
+And then 25% neither positive nor negative, which means you're lightly positive.
+
+You're—you have a conscience, but you're lightly positive.
+
+I know I shouldn't say that, so I'll just pretend to be neutral.
+
+I'm neutral. Yeah. So they want—they're bloodthirsty. They want him dead. And then my favorite is the 25th Amendment. You know, Joe Biden was in office rambling, doing whatever. The auto-pen was running and nobody even touched that. Nobody even came close.
+
+Yeah. Jim Carrey wore a Joe Biden mask and pretended to be him and they said, "Yeah, Joe Biden's 66 now." Yeah, of course. But fortunately, when it comes to the assassination stuff and like the insinuation of violence, the types that do respond that way are like the least physically capable of pulling it off. It's all like these DSA—
+
+Gold-body retards.
+
+Yeah. So it's like not something to be fully scared of. And we actually have a clip here. And then also, besides that, like I'm talking mostly about the women. The women are all like unhinged, but the men on the polls like that, there are a lot of bisexuals.
+
+Yeah. Weak.
+
+Weak guys, skinny guys, smaller than girls, bisexual.
+
+Politics is very biological is what I'm learning more and more. And the low-testosterone guys always fall in line with the ladies.
+
+Exactly. They follow the group because if they don't follow the group and they stand out, that could mean that they get taken down, and they're scared. Like you know how fish—
+
+Call—
+
+Yeah. They don't want to get whacked, and then the fish go into school, you know, like that's how they're safe, and then they turn into the picture of the bigger fish.
+
+They're prey.
+
+And then they chase. Yeah, like that book.
+
+I'm losing you. You're losing me.
+
+And then I saw this on Long Island. There was an election where a DSA candidate lost, and this is how they reacted after.
+
+So she's fainting, whining, and the guy is, I guess, fighting for wrist control. Stop, stop her from humiliating herself. But—
+
+You're so close to governing us.
+
+No, it's this close.
+
+You're so close to governing us.
+
+We were going to kill you.
+
+Oh, man. That's our plan.
+
+That was pretty good. So you can't be too scared, but they are kind of reckless.
+
+Yeah. All right. They will wield state power against you. That's kind of the key. And that's why I again, with that whole getting-off-the-accelerator on the anti-Byron Donald, whatever stuff—you guys, all our opinions are out there. They're on paper over the last, you know, 50 episodes or whatever. But again, those types of people will wield state power to do whatever they can to you. And they think it's funny.
+
+Exactly. And when they get into state power and government power, that's when it gets a little more risky. But on the individual level, it's just like a crying Chinese girl who can't manage her emotions.
+
+Yes. Yes.
+
+All right, let's get into some homeless information. I have a little segment here about a bunch of homeless stuff I thought was funny, interesting, or gross. Let's start with this most Portland scene ever.
+
+Yeah, this—I at first I thought this was some sort of modern art piece.
+
+I thought this was supposed to be in a gallery, but—
+
+I could frame that.
+
+Yeah, you could. It says, "Drug psychosis with a furry onlooker has to be one of the most Portland situations I've ever experienced. Within seconds of starting my walk, I found her writhing and flailing like she was on Flocka next to the MAX train line. I called 911. She was still there an hour later banging her head against the sharps bin."
+
+And then a furry's walking by.
+
+Yeah. With luggage. Furry on the way to the airport, I guess. It's pretty nuts. That's what Portland's looking like these days. And then this guy made an interesting point replying to this.
+
+If the federal government stopped subsidizing naloxone, there'd be 25,000 extra deaths a week for about a year. Then the problem would be mostly solved.
+
+That's interesting, too.
+
+Yeah, it is kind of how it will work out. It's not every—it's not everybody. Not everyone needs naloxone.
+
+Yeah. Just a few people do, and then once they don't need it anymore, no one needs it.
+
+Yeah. I know. And that's dark, but that's what used to happen, right? And then like, what happened? Oh, he died. What was he doing? Oh, he overdosed on fentanyl, and he was homeless, and he was on the ground. Oh yeah, that's kind of who dies. The type of stuff when you get a really vague obituary and you go, "If Max was a beloved, then he went off the beaten path a little bit." But yeah, I don't know. We're saving these people so they can do it again.
+
+And it costs money. They all cost money. We did a stat where it's like a homeless person in New York is like 80K a year.
+
+Yeah, I think it was 83 or 87, if I remember. Crazy.
+
+This next one I thought was really funny. This is from New York.
+
+Yeah. So, Mom Donnie made that big speech about how he was doing public toilets, and I think there's a smallish number of them, like 10 or 11 or something. But it says, "New York City is rolling out public toilets that only give you 10 minutes to finish. An announcer warns if time is running out before the door slides open, potentially exposing users to the public."
+
+And the reply is, I thought, was the important part.
+
+Yeah. Imagine you in the middle of a diarrhea dump, but it's a clock violation. So the doors fly open with a buzzer sound. Yeah, it's Looney Tunes. And there will be some people who like it. Gets the shack. Remember?
+
+Yeah. Thanks for the f-shack. They wanted to do that in LA. You think the bathrooms, the holes, aren't going to be used for f-shacks, too?
+
+And then like the people—
+
+I can finish in 10.
+
+Yeah. The people it affects the most are like normal—
+
+Yeah. Like if it opens on a homeless guy who's doing drugs, like he'll just move on. But like, what about the people who are actually going to the bathroom?
+
+Totally crazy. Can't have anything.
+
+All right, next. LA has a medieval disease that just broke out.
+
+Yeah, Laura, it really is gross, because a lot of times this illness involves rats, and there's a whole bunch of them across the city. Oh, rats on the run in LA. And now a new health warning. LA County investigating a new flea-borne typhus outbreak in Wilshire Center. Seven people sick, six hospitalized.
+
+Does anyone have contact with typhus? What's to investigate? They're investigating. It's like, well, there's homeless people. They live amongst rats. The rats carry the fleas. The fleas carry the disease. Typhus is back, baby. There's no research or anything. Like, I'm going to go door to door.
+
+But where is it coming from? Where'd it start? Where's patient zero? Some guy like—
+
+How are the rats getting on the homeless people? They're on the ground.
+
+Yeah. So it's interesting, because we always talk about the third-worldification, and, uh, import the third world, become the third world, but I'm realizing we can also go back in time. Fully eradicated diseases, you know, 1400s-era stuff, and like plagues. So—
+
+Feels good.
+
+All right, let's move on to our next piece about California. But before we do, we have a very special message from Farmer Bill.
+
+Guys, something came across my desk and I had to let you know. I was running some Farmer Bill's meat math numbers and I discovered something quite compelling. Look how much protein Farmer Bill's meat sticks have per ounce compared to the competition. Farmer Bill's is at the top with 14 grams of protein per ounce. Next is Archer Beef Sticks at 8 grams per ounce. Not even close. Followed by Paleo Valley at 6 grams per ounce. Not even close, as well. Farmer Bill crushes the competition, and he uses higher quality meat with no preservatives. For reference, an ounce of ribeye is only 7 grams of protein, while Farmer Bill's is at 14. And it gets even better when you account for the cost of protein per gram. Farmer Bill's grades out at the top once again at 29 cents per gram of protein when you subscribe, and 32 cents when you do a one-time buy, which is still cheaper than Archer and Paleo Valley. The competition is basically serving you hot dog scraps while Farmer Bill gives you steak in a bag. Whether it's the sticks or the Bill Tongue or the slabs, nothing beats Farmer Bill's. Load up on some today. Use code FLECKUS20 at checkout for 20% off of your order to save even more. Farmer Bill is a loyal show watcher and he is on a mission to create the cleanest, highest-quality meat sticks money can buy at a more affordable rate than the corporate competition. Get some today and tell them Fleckus sent you. Go to farmersbillsprovisions.com. Use code fleckus20 at checkout. That's linked in the description and the pinned comment. Thank you to Farmer Bill for supporting the show since we launched it. And remember, if you guys place an order, send me a screenshot to my DMs or to my email and I will follow you back on whatever social media you want. Thank you to Farmer Bill for sponsoring.
+
+Let's get back to housekeeping. Farmer Bill's Provisions, the perfect protein snack.
+
+All right. Thank you to Farmer Bill for sponsoring. Thank you, Farmer Bill. Those meat math numbers, they add up. That's good stuff.
+
+All right. This next story out of LA is probably my favorite from housekeeping. They're trying to pass this new bill that makes 16-year-olds go into booster seats. Kind of. Yes. California wants 16-year-olds in booster seats starting January 1st, 2027. Kids aged 8 to 16 have to pass a five-step test before they can ride without a booster. Fail any step and your 15-year-old—the one who can legally drive in some states—is back in a booster seat. Five-part test is: sit all the way back, knees bent over the edge, belt across the chest just so, lap belt on the thighs, and number five, stay like that the whole trip. This is the state that already treats childhood like a liability. Now they're writing height and posture tests into the vehicle code so a teenager who doesn't sit correctly can get you a ticket. And Gavin Newsom signed it.
+
+Yeah. And I think they need to do this to protect everyone from the Modillo illegals who keep crashing and getting DUIs. And instead of protecting people by just like arresting and deporting those people, they want to put your kid into a teenage humiliation ritual.
+
+Yeah. Five-point test, right before they're studying for their own license.
+
+Yeah. And then let's not forget about the Indian truck drivers as well. They're also tearing people up out there.
+
+We gotta protect them from that.
+
+But actually, you bring up an interesting point. Mothers Against Drunk Driving used to be an incredibly powerful lobby, and they were always doing ads and stuff like that. Where are they at with the Modillo drinkers?
+
+They were quiet.
+
+Yeah. The Dewies. The Modillo. I got two Dewies. Two Modillos. You know, where are they at? Yeah, that they got quiet lately. I don't know why. Good t-shirts, though. You could wear it, ironically.
+
+Yeah, sure.
+
+But in California, kids can also do like hormone transitions, take cross-sex hormones. They could drive the car to chop their peckers off, but they need a booster seat. Now you got to go in the booster seat, and you have to wear a little propeller hat, and you got to carry a lollipop. And it tastes like poop. And you have to eat it.
+
+The lollipop's poop-flavored now in California. I didn't—
+
+Have to eat it. Gavin Newsom signed that. Holy—
+
+And I was thinking like, what, a 16-year-old is like what, 275 pounds?
+
+Yeah. The average—
+
+The average 16-year-old. Well, actually, I know you're doing a joke for what you were at 16. But like, the average 16-year-old is like a fat, overweight Hispanic woman now in California.
+
+So what's the problem?
+
+Yeah. I don't know. They're built. Yeah.
+
+And then keep in mind that generation—like if you're 16 years old, that means you were like 10 to whatever during CO—so you saw the masks, the compliance, you got scared, now you're humiliating yourself in the booster seat. So that lower-than-Gen-Z generation might be like the drone-class compliance group.
+
+Yeah, that's true. They got kind of ingrained at a young age, different than us. You know, we were—our brains are already fully developed when we had to deal with CO.
+
+Yeah. Yeah. We maxed out our brains, which we're not saying it went that high.
+
+Our brains are maxed out.
+
+But they are maxed.
+
+All right. Let's get to this next story. This is something that you sent me that you're kind of passionate about. This woman, because of woke, sent her kid to a bad school on purpose.
+
+Yeah, basically. And since we missed a week, we're going to kind of go a little bit backwards to some of the major stories that we missed, just to kind of cover them. So some of you guys may have seen this, but this was written by this woman who, you're right, it was because of the woke. This woman is kind of like a solidarity person, both racially and classwise. And she writes about—here's her name, Nicole Hannah-Jones. And she says in her little bio, "I've been reporting on school segregation and educational inequality for more than 20 years, since my very first job." So this is kind of like her lane. And she wrote this very long piece in the New York Times, well titled, "In Fighting for Every Black Child, Did I Betray My Own?" "A decade ago, I made a decision about my daughter's education that I hoped would challenge New York City's separate and unequal school system. Now 16, she thinks I made the wrong choice." And here is the headline from 10 years ago that she's following up on, which got like praise, and everyone was, you know, "Ooh, very deep thinking. I haven't thought about that." "Choosing a school for my daughter in a segregated city." And it's New York City. "How one school became a battleground over which children benefit from a separate and unequal system." And so she's coming at this—this was like a long, my family, my history from grade zero all the way up, 8,300-word essay that this woman was reflecting on. And I actually thought I would be more mad and meaner to her and be like, "You idiot. Of course you're so stupid." But it was like honest, and like she tried, and she's ideologically the opposite end of us. But it's interesting because she cares about her kid, but like had the wrong information and made bad choices. So I'm going to read kind of a couple pieces, just because there's so much detail and info out there.
+
+So the way she kind of starts this article is, her kid is finally confronting her after realizing, "I go to a shitty school." And I think this was in elementary or maybe middle school. But my child just shook her head. Her face a mask of disbelief and something else—betrayal. "So you had money to send me to one of the best schools and you chose not to," she said, hurling her words. "Because other kids are disadvantaged, you didn't want to put me into a great school." So she's kind of like peeling back. "What? Mom, I'm with retards."
+
+Uh, so Nia was the daughter. Nia was asking what I'd accomplished by not choosing the best school for her. And the honest answer is, I don't know. When it comes to the choices my husband and I have made about public education these days, I feel that I failed both my values and my child.
+
+And so that's why I'm not gonna be mean. It's like this mom is like trying to learn and reflecting about this, right?
+
+Could have just asked us.
+
+You could have paid like a flat consulting fee. It wouldn't even been that much.
+
+You could have texted me and I'd say, "Ah, Senator Good School, with typo."
+
+You could actually—you could have asked any parent.
+
+So basically, the daughter kind of realized, and eventually she gets to choose by high school where she goes. So she sent the daughter to a public school where it's like all the other mouth-breathers, the predominantly black kids whose parents don't have the money to send them to a nice school. This woman's like a New York Times reporter, married to her husband, they have money, right? So it wasn't a problem. So I'm going to just read—I'm going to bounce around from anecdotes.
+
+Finally, a few days before I let out for winter break, I received a folder in Nia's backpack with the math assignments. This is around middle school. I had been requesting since our conference. Once I tucked her into bed, I sat at my dining room table and scanned one page, then another, and another. None of them were graded. I started checking Nia's work and discovered most of her answers were wrong. Nia believed herself to be good at math. It was her favorite subject. But now I understood she thought it was correctly solving all her problems because her teacher was not checking her work. Similarly, Nia's writing assignments were rife with uncorrected punctuation, capitalization, and grammar errors. I sat there silently for several minutes, conjuring the image of my little girl, thinking she was soaring in class when she was failing, and my devastation morphed into hot rage.
+
+Her favorite subject is math, and she's getting all the questions wrong.
+
+What's your favorite subject? Dieting.
+
+Yeah. Yeah. The physics.
+
+Yeah. No. And so I don't want to go too crazy. You've missed the dieting. But basically, this is like a sad tale of dysfunctional schools, and she's going in and out about the lunch is chaotic and the lunchroom. There's like fights and low, limited supervision, and all this stuff. The teacher's not even assigning homework, all these things. And she finally finds out. So it's interesting that the daughter finally finds out she's in a bad school—she has to be told, "You're not actually good at math. You're not doing this right." It's this weird, honestly kind of messed up thing to do to your child, right?
+
+But long before Nia started coming home with familiar complaints, just like at her elementary school, so she's now in middle school, her teachers did not assign homework, and that troubled her and us. She'd bemoan how the less experienced teachers struggled to manage their classrooms and would expend so much attention on the small number of kids acting out that they'd be unable to complete their lessons or help a student stuck on a problem. There were occasionally fights in the hallway. So again, that's like you're stuck at the bottom 5% is controlling how you learn in class because they're so unruly, and there's rules against suspensions or whatever. You're just beholden to whatever they think.
+
+Yeah. And so then eventually, like this whole story is kind of framed in her daughter's awakening, where she's kind of trying to exert her will and choose her own thing. And finally the mom goes, "All right, you can choose where you're going to go to high school."
+
+I explained our decision over and over, but my answers never satisfy her. "But what did it do?" she asked. "Sending me to the public schools—like the worst public schools—putting me in this school didn't change anything. I was not trying to be in this type of environment. It makes no sense." So she's arguing with mom like a teenager argues with mom, but the teenager actually has more ammo than you.
+
+Teenager's right-wing now.
+
+Yeah. It was draining, but I respected her growing independence and admired the way she was advocating for herself. Yet it also unsettled me. Her adamantness started to seed a fear that if I continued to force her to live my values, it could haunt our relationship far past her school-age years. That concern led me to a wrenching decision. I waited until the next time she brought it up, and then I told her I was going to let her choose her own high school. "Really?" Nia seemed incredulous, even suspicious, maybe peering at me from the corner of her eyes.
+
+She didn't know what incredulous meant, though.
+
+Yeah, because of the school. She hadn't gone to a good school.
+
+And again, and so Nia ends up choosing a white school. A few days later, she handed me her list. Her top schools were heavily white and screened their students—the type of public schools I had spent my career arguing against. But the link between race and educational opportunity was clear to my child. "I'd never been in a school with white kids, and I don't think I really wanted that," Nia later admitted. "But I thought, if you were looking at the top schools, they're majority white. So I kind of was just like, I knew what that's—that's what I had to do, right?" So she ends up getting into a school, one of the nicer schools. She had to get a tutor and stuff to get her algebra back up, the answer she thought she was doing.
+
+And then here's where the mom's kind of reckoning with her beliefs. Nia seemed in her decision to reject my every belief about public education and our family's obligation to our community. But in entering the other side of public education in New York City, Nia would soon learn what I had long known. When it comes to the education of black children in this country, there is nearly always going to be a struggle. It's just a matter of which one.
+
+So then she shifts, you know, it's all under this black-child thing. She kind of mentions a few racist comments or casual racism, and it's like, but are you learning the algebra?
+
+Yeah. Is it actually racism?
+
+So pick your struggle. Failing algebra—the whole point of going to school, which you go eight hours a day—or like the comment of, "Oh, your parents aren't on the Upper West Side."
+
+I like your hair. Cool hair.
+
+Mind if I touch it?
+
+Racism. Cool hair is racism.
+
+So yeah, I honestly, we've talked about this long enough. Basically, the woman then admits failure. Like she kind of says, "I feel like I got cheated." The daughter says, and—
+
+There's one quote from this that I want to kind of everyone to take away, where the mom says, "We had an obligation to be part of the struggle of our larger community."
+
+You did.
+
+And that's what led all this to come down where the daughter can't read as well. She can't do math as well. It was out of an obligation to be part of the struggle of our larger community. That's the black community going to public schools, right? And so mom and daughter, well, mostly the mom, are like, "All right, we're gonna grab this tug-of-war rope. Let's go, Nia. Pull." And then three other kids are fighting in the corner. Two other kids are pulling the other way because they don't know which side to be on. And then another kid's like beating up a teacher, and then shots go off and everyone runs.
+
+So yeah. Yeah. Kind of. I mean, it's reasonable, right? We were talking about middle schoolers for a portion of this. So not necessarily, but this whole like solidarity and like living by my values, and it kind of goes out the window when there's just bad kids and bad kids who have no incentive to learn. They have no structure at home. And then this mom is sending her kid where she's got a loving family with a decent income, sending her to the same stuff and saying, "Go be bad at algebra and think you're good."
+
+Yeah. But you're part of the struggle of the community, and it's like, "Oh, do they appreciate that?" No. Do they help you? No. Also, no.
+
+No. They're fighting over nothing and they're disruptive and shooting people, and no one can learn because there's a few bad kids in every class.
+
+Yeah. And so, I mean, I just wanted to cover that because it was fascinating. I give credit to the woman for kind of coming out and coping with this emotional reveal that you kind of set your daughter up to fail, and she only scrambled out at the last minute because you were heavily involved in monitoring. You got a tutor and you got her out, and then made it happen. But again, I just want to say because we've covered a lot of this—like administrators growing in schools, test scores not improving at all, the kind of dollar amount of spending per pupil that even at schools like this is incredibly high. There's really no way to make a parent care about making sure a kid can read at the grade level.
+
+And I don't know. It's just kind of everyone's every man for themselves in America these days.
+
+Yeah. And I know it's tempting to kind of—you want your daughter to have a black experience or something, but black experiences aren't that good in America these days. So you just get a daughter who you got to get up to speed on algebra, and then eventually she goes to the white school anyway.
+
+Yeah. And then also related to this, there was a tweet I thought that kind of summed up the situation very well. You ask a lib how much they're spending per kid at the PDP-enabled Chromebook academy in Brooklyn and they say, "I don't know, $3,000." Then you tell them it's actually $45,000. And they look at you like this and say, "Well, maybe it should be a hundred thousand."
+
+So yeah, I mean, that's the conversation you have with like a liberal.
+
+Yeah. Who doesn't understand what's going on, doesn't know the numbers, thinks that like, "Oh, teachers need to be paid more. Oh, we need to spend more on the students' education because we don't spend enough money. We don't prioritize our kids." And it's like just totally made up. They have Chromebooks, they get stolen, they get resold, the bad kids are shooting dice in the back of the classroom. So, um, and the one thing I'm learning from a lot of these school things, it's like you are really, really, really beholden to the bottom five kids in that class. If they're disrupting the whole thing, you gotta get your kid out of there.
+
+So, exactly. But it was very interesting. It's a woman whose entire—like you spent the last 20 years arguing about why it's unjust and all that—only to get red-pilled by your own experience.
+
+Yeah. And then—and that's never happened to me.
+
+No. Like, or you know what I mean? Like a worldview that I've had has never been brutally shattered.
+
+And she did the article 10 years ago where she's saying like—
+
+She probably led people to the slaughter.
+
+That's right. Yeah. Like, this is why we gotta do this. This is why it's important. This is why this is the right choice, and you're kind of doing the thing where you have the conclusion before you run the data.
+
+Yeah. And you know how a big theme of our show is, I don't want to be part of an experiment, both in America and whatever, and I really don't want my kid to be part of an experiment.
+
+Yeah. And that's what that was.
+
+All right, let's jump over to Canada. I wanted to include this. There's obviously that thing called MAID, which is where you can end your own life, and then they encourage people to do it like, "Oh, you have a headache. Oh, you broke your leg. You could just end it."
+
+Yeah.
+
+Those are the extreme examples, obviously, but I mean, we did cover one of the MAID stories about a guy who got recruited outside of a Tim Hortons.
+
+Remember that?
+
+Yeah. So, um, so we have the article here. Can you read that?
+
+Yeah. Assisted suicides now make up more than 1 in 10 deaths in parts of Canada, and rates are rising, and 98% of them so far are white people.
+
+Yeah. And like they used to do this back in the day for the dumb, the lame, the morons. And these are all medical terms at the time.
+
+Sweden, didn't Sweden basically do that? Like they castrated a lot of their undesirables.
+
+And now you look now and you know what Sweden's like.
+
+Mhm. And then for this, they're like killing the people that actually built Canada so the migrants can have like more free stuff faster.
+
+Yeah. Kind of dark. And then I found one where a lady didn't want to do it and they did her anyway.
+
+Our 83-year-old Christian grandmother was euthanized against her will under Canada's assisted dying system. She died covered in blood with her hands clasped in prayer.
+
+So I guess they just kind of snuck it past grandma. And you know, an 83-year-old—we've talked about it, I think last episode, about diminished capacity and the ability to sign away your rights. And it's like, "Hey, quick, when your family's here, you want to do this?" They flip a clipboard to you, make you sign it.
+
+Make you sign it. And then someone had a tweet replying about this that I thought was interesting.
+
+When assisted suicide has a higher mortality rate than peak COVID—an event where you shut down your country to save the lives of old people—you are now killing. We live in such a clown world, it's unreal.
+
+It's pretty crazy when you think of it that way.
+
+Yeah. And then in Canada, when it comes to health care, a lot of times the people will say, "Oh, why can't we have healthcare like Canada?"
+
+Yeah. And I found this story, which is insane. And this woman has cancer, and then the Canadian health care system made it so her process to cure it is taking forever, and now she's getting sicker.
+
+Women's health in Nova Scotia, Canada, is scary. I'm so upset right now. I could cry. Two years ago I get a Pap smear. Looks like you have three cancer cells on your cervix. So just like abnormal cells. This isn't anything new for me. My cervix has been trying to kill me my entire adult life. I need to send you to a gynecologist to really dig deeper to see if it is cancer. The referral takes months. I get a call nine months later from a gynecologist saying, "Hey, we got your referral. Let's book you." I'll book the appointment. I show up at 10:00. They're like, "Her appointment was at 9:00." And I was like, "Excuse me?" Absolutely not. I am so diligent with my appointments. 10:00 is in my scheduler. She's like, "Don't know what to tell you." I'm like, "Okay, so can I reschedule?" And she was like, "Nope. The doctor said you need a new referral. You have to start the whole process over again." I was like, "Oh." I leave there like crying. Call my GP. So she's like, "Let me put out another referral." That was seven months ago. Last week, I get a phone call. "Hey, um, we're just calling from this gynecology office. You have an appointment on the, you know, the 16th." I was like, "I don't know about this appointment. No one ever told me." She's like, "Oh, no one called you to tell you that. Nope." I was like, "I can't do it. I'm working on a TV show. I'm contractually bound. Like, they can literally take me to court and sue me if I don't show up. And I'm sorry, but I don't think the producer cares about my cervix." So I was like, "I can't." She's like, "Okay, well, we'll book you in for another time then." I'm like, "Great. When is that?" She's like, "It'll probably be next year sometime."
+
+There you go. You get it. It's dragging out. It's tooth and nail to get an appointment, and you're dealing with like growing cancer.
+
+Yeah. Literally growing in your body, and it's like you're two years away from even someone looking at it and telling you what it is.
+
+So rich Canadians just come down to the US, right?
+
+Probably. Yeah. They do the medical tourism.
+
+Yeah. Medical tourism. Something like that. And then you know, you're worried about your cervical cancer growing in months and months. And how many foreign-born people are clogging up the line?
+
+Everybody.
+
+You gotta think like that. If you're not constantly thinking about migrants, everything is related to migrants. If you haven't realized that at this point—
+
+And then if you don't get red-pilled and act on it politically, you'll eventually get red-pilled, but it'll be when it affects you, when it comes to your door.
+
+Oh, yeah. Everyone's got healthcare. Oh, whoever wants to be Canadian can come here. Oh, America's an idea. And then it takes you three years to get like a cancer screening, and then you go, "Wait a sec. What happened?"
+
+You become Hitler. You immediately become Hitler. So there's like two ways to go about it. Either you stop it before it starts, or you find out why the right wing has the views they have.
+
+Yeah.
+
+All right, we're getting into our migrant section, but before we do, I wanted to show you guys this clip. This was on social media. It's like these people getting married and they're stepping on the cake, and then they cut away to show you like starving African kids.
+
+Don't spoil it, brother.
+
+Yes. And they quickly cut and they show you this. Basically saying like, "Oh, these people are living so extravagantly, and they're stepping on a cake, and meanwhile this African kid can't find water."
+
+You can't have fun. You can't do bits, because there's an African kid in a hut somewhere starving.
+
+You can't have a fun wedding because Africans can't feed themselves.
+
+You know, and then I have this graph of the population of Africa. Europe, you see how Europe is kind of, you know, steady—steady slope on that line—and Africa's going parabolic.
+
+And Africa goes parabolic. And I was helping him too much. Because we help him. And I was thinking, imagine you and me showed up to an African village.
+
+Mhm.
+
+First thing would be like, "Oh, so what do you guys do for water?"
+
+Yeah.
+
+Oh, every day we walk five miles and we fill up this oil jug and then we carry it on our head back, and then that's the water for the day.
+
+Yeah. Ah, okay. So, could we—
+
+Let's get a pump up, you know? Like it's like day-one stuff that you have to fix. And then there's like this idea that like, "Oh no, like everyone's impoverished because white colonizers are stealing all of the resources. We were gonna process that uranium and sell it, but the white people stole it, and that's our uranium. We were going to use that. I swear we're going to use that." And then I found this video of a person who I'll just let the video explain itself.
+
+Here in the harsh light of day, we observe a fascinating and highly efficient foraging behavior unique to this region. Young males of the local population have discovered that the reinforced concrete drainage structures contain a valuable resource: iron rods. With nothing more sophisticated than a broken brick and pure determination, they systematically dismantle the public drainage system, extracting the metal for immediate low-value trade.
+
+So there you go. It's the same thing we cover in LA with stealing the copper wire out of the active street lights. You know, you have a drainage system and you go, "Ooh, that's 20 cents per kilo of, you know, rods, whatever it is." So yeah, stomp your cake, do whatever you want on your wedding. You can't teach a people to function in a society. You can't just make that happen. And I'm kind of realizing like, you know, how we have different forms of government and like, you know, there are monarchies and democracies, representative democracies, and stuff. I think everyone in Africa should just be under a military dictatorship.
+
+Or we gotta be scared of something. Yeah, we gotta colonize it again.
+
+Yeah. Yeah, we just take it.
+
+Sure. But yeah, so I don't know. What's your point here? What's your broader point? Can't help them.
+
+Well, yeah. I mean, I think it's funny that people say like the people at the wedding ceremony are the problem.
+
+Yeah. No, I think the birth rate and these people who can't think are the problem.
+
+Yeah. Yeah, that makes sense to me. Don't get mad at me for having a nice life.
+
+Mhm. Don't tell me I have too many cars.
+
+Okay. You know, but that I would even say that. But you see Africa.
+
+Yeah. What about them? What does that have to do with that?
+
+I don't know anything.
+
+Okay.
+
+All right. Let's get fully into our migrant section. This was from last week, but I still wanted to show it. Everyone's still talking about the Texas Longhorns, uh, Indians, right?
+
+Yeah, the memes before the Tennessee-Texas game were insane. Texas is becoming synonymous with Indian slop now. It's so cool how like college football and politics are merging.
+
+Yes, very much so. Very much so. But then this guy said, "Hope you enjoyed the game, Bo French."
+
+Yeah. His name is Shihan Jaraja, and he's an Indian guy, and he's on the field, and he blurred out something on his badge, but his access badge says "No Field," and he's on the field.
+
+So he's scammed. And she might have gotten there illegally, but it's so funny to walk into a stereotype that you scammed your way.
+
+No, please. Please. It says "No Field," but I could get—
+
+It says "Field." Did you cover the "no"?
+
+And then the Hindu American Foundation tweeted about the game here.
+
+Yeah, that's a Hindu American board member and a bunch of Texas Longhorns telling Bo French and his trolls that we're here, we're not going anywhere, and yeah, we'll be voting in November.
+
+Yeah, which is, you know, yeah, that's what we don't want. We don't want you voting.
+
+That's true. We know. We don't want you here because you form an ethnic interest group and you start voting for that ethnic interest group instead of, you know, for what's right or wrong.
+
+The Medicist had a great reply.
+
+Yeah. He said, "Ethnic interest group reminds you: ethnic interest group is against you forming an ethnic interest group, but will continue to vote in the interests of their ethnic group, which is at odds with your interest. That's why we've raised the alarm."
+
+Yeah. And with all this H-1B scam and the Texas takeover of Indians. So yeah, we know. Thank you. We know you're relying on weight to form a political group based on your ethnic identity. That's what we don't like.
+
+Yeah. And for many years, so when they fight back, they prove us right. You know, it's interesting. And it's an interesting thing to notice the change in mindset from their side, because for years this was hidden. Like Dallas got taken over by Indians and it was kind of under the radar for a while, and then people started talking about it, and now everyone's talking about it, and then when everyone's talking about it, they go, "Yeah, we are taking over." So there is a thing where like they kind of snuck in for a while, the numbers got big enough, and now their best interest is saying, "Yeah, we are here, we're not going anywhere, what are you going to do? And we're a powerful voting block." You know, that's where we're at.
+
+And then I want to talk about these H-1B doctors. Crazy stats came out when it comes to foreign-born doctors versus American doctors being hired. We have a chart here. Can you explain the chart?
+
+Yeah, red on the chart is foreign-resident doctors, and the gray are Americans. Some hospitals are almost 100% foreign. A lot of these doctors came in on visas. Some have been tied to fake credentials and USMLE cheating scandals, because, you know, the standardized tests. There are like WhatsApp groups going around with the answer keys and stuff like that. So you can't really be sure that someone is legitimate. I pay the premiums. I wait months to be seen. Taxpayer-funded Medicare GME money, over $21 billion a year, is training these foreign doctors instead of Americans. And so these are some of the worst offending schools. We're not going to go into it because this is a pretty detailed chart, but you can see just the insane proportions here, where—
+
+This is residency program. So this is like doing that year or two before their full-time job, right?
+
+And the red is foreign-born. The gray is Americans. It's all red.
+
+And then these are all just American institutions, obviously. And I don't know when we got to this point where we need to train the world's doctors. Like, what? Why do I care?
+
+I think it's doc and doctor. It's one of our best jobs that's like just every city, every town has it, right? Pretty much.
+
+Yeah. It's one of our best, highest-paying jobs, and we're training foreigners to do it. They're displacing white Americans who we've already covered can't get into medical school as easily. I think do we have it here? That lawsuit? Yeah. UCSF med school, this is from Harit Dylan, is 4.6 times more likely to admit Hispanic applicants and 12.6 times more likely to admit black applicants than white applicants with the same academic and socioeconomic background.
+
+Yeah. So we already can't get in. We're wasting all our spots with foreigners. And then we've talked about remittances, language barriers when it comes to treating a patient, just taking a spot, whereas an American doctor will spend all their money here and never return to some other country because they're only a citizen of America. So it's just so frustrating. Every industry, they hollow out. They're like weevils or something.
+
+And we have—they displace the bird. There's probably a bird metaphor like who tricks the other bird to raise its eggs and then they fly out of the nest. It's something.
+
+It is something like that. And we have a couple examples. This is Rochester, which is New York.
+
+Yeah. And wait till you hear this. 80 are foreign-born doctors, H-1B or J-1 visas. Only two are Americans. So 80 out of 82 are foreign-born. And we have like this thing here, or we'll just kind of scroll it in the background of all the foreign-born doctors—
+
+Hijabs, foreigners, muhammeds, you know, Chinese people. Chowo, you pick. American, damn, you come here.
+
+So yeah, I mean, it's like this is a crime.
+
+There's a white woman, Paul.
+
+Yeah, that's the one. Paulina Guttermotes. No, they brought her in from Belgium or something. Guttermote.
+
+No one, man. Crazy. And then we have another example. This is from Baptist.
+
+Yeah. Alabama Baptist Health. You know, Baptist.
+
+Yep. When you hear Baptist Hospital in Montgomery, Alabama, is this the residency class you picture? Broken laws got us to the point where we have a doctor trained at the Government Medical College in Bavagar, India, leading a residency program where 23 of 24 residents are foreign med school grads. And so this is the guy, Vikas Gupta. He's the chair. Here's the picture of all the residents there. And 62% of his first-year residents went to a medical school in his native Pakistan. Seems normal, right?
+
+In Alabama, though.
+
+Yeah. Maybe there's a—maybe there's a Pakistan-to-Alabama pipeline that he literally created.
+
+Yeah. Because he's hiring all Pakistanis on purpose.
+
+And then it happened in Texas, too.
+
+Yeah. Something changed at the Texas Health HB Denton. Among its current internal resident medicine residents, graduates of Pakistani medical schools make up 25% of PGY-3. I don't know what any of this is. I'm assuming this is groups of the residents classes.
+
+And then 62% of, yeah, one of them.
+
+So it's not good. Lots of Pakistani, and they're not better trained over there, believe it or not.
+
+Of course not. And then you get gaslit once this is brought up. It's like, "Well, nobody wants to be a resident in Alabama." It's like there are kids who didn't get into a med school and are like doing software sales now in America. Nobody wants to.
+
+You guys are—
+
+It could be because DEI lets no white kids into school, and then the American doctor class is all like those videos we see on Instagram with all the black people dancing in the doctor outfits. The doctor costumes.
+
+Yeah, the costumes. I agree. And then they're like, "Well, we don't really want these doctors. These Indian people. We'll just bring them."
+
+Yeah. And then I don't know, maybe it's they're cheaper, too.
+
+We have a serious problem. The whole point is like we have such a serious problem, and everyone's just kind of like, "Yeah, I saw JD Vance was talking about H-1Bs. H-1Bs should be to make America better, not to replace American workers." And it's like, talk about the medical school.
+
+Yeah. With 80 foreigners out of 82. Like, they're crimes. And then these residency programs, US tax dollars pay for them through CMS, which is the Center for Medicare and Medicaid Services. So those are like billions of dollars in tax dollars that are paying for these residency doctors.
+
+Let's go over to our next story. It's about Indians in Texas as well. Apparently, the ones who are losing their H-1B jobs are going home and abandoning their houses. We've kind of talked about it, but we have a video example, too.
+
+Yeah, because they get underwater on their mortgages and they lose their job, and there's no point. The abandoned ship. And this guy is, I guess, an inspector in the DFW suburbs. He says, "Another day, another inspection of an abandoned house in the DFW tech hubs. This one was left unlocked, wide open, and completely dark. Clean laundry in the baskets. Personal items everywhere, but nobody's home. This isn't just a regular market correction. The decorations inside hint exactly at who was living here. Likely another H-1B visa holder who caught a pink slip. With enforcement tightening and the immigration clock ticking, tech workers are facing a brutal reality: walk away or get deported. Instead of fighting it, they are packing a single suitcase, abandoning their upside-down mortgages, and leaving the keys for the bank to figure out. The international flight from suburbia is real."
+
+And remember, we always talk about this anecdotal evidence first.
+
+Yeah. You know, you gotta take the anecdotes first. And here's the picture with the Indian elephants. They like elephants. They do.
+
+They won't eat them. They won't eat them, but they like them.
+
+I will give credit. I saw a video of two Indian guys in India, where they should be, which is nice. Save a baby elephant from a raging river. Reunited the elephant with his mother.
+
+So, you know, that's great. Don't come to Texas.
+
+No elephants here.
+
+Yeah, no elephants here. Get away.
+
+And somebody else said, Fugitive Caesar said, "A lot of the Indian fraudsters are fleeing the country and not even bothering to sell their house because they're worried about going to prison and having their assets seized for welfare fraud." That's the extreme end, you know, of it. But I'm sure there's a couple cases like that.
+
+Oh, yeah. Do you want to play the video?
+
+Uh, no. We saw the pictures. We could play it quick in the background. This is what it looks like. They're going through the house and it's like people just left.
+
+The pantry. Yeah.
+
+You left in one minute.
+
+Mhm. Yeah. All the spices. Those are those are up for grabs.
+
+Good sign.
+
+And then I wanted to show you guys this tweet from Insider Wire.
+
+Yeah. Breaking: Home builders say they can't find workers amid the ICE crackdowns. So they're going to pretend that like the cost of homes is so high because we can't find workers and ICE is deporting people, not because there's a 100 million illegals here and 50 million legal immigrants here.
+
+Yeah. And then we showed you what do you think happens when everyone—the H-1B people—leave Texas? You think those home prices are going to go up or down?
+
+Down.
+
+Yeah. And then this guy made a really good point about that tweet, though. He said, "Why are we supposed to compete with the entire planet for jobs, but employers are never expected to compete for workers? They don't even try to be competitive in hiring. They simply cry and lobby for open borders."
+
+That's so true. And the homebuilders should be, you know, if that H-1B guy who left his house can see the writing on the wall, the homebuilders and people like that, they should appreciate, man, starting in Obama, you know, 2008, after the economy bottomed out and all that, we had a pretty sweet ride building houses with cheap illegal immigrant labor.
+
+It was the golden era. I got rich during that 12 years, you know, like, and now they're whining about, you know, but that's a great point about competing for labor.
+
+And there is, in a capitalist system, everyone says there's no such thing as a labor shortage. Wages just haven't matched the demand yet. And so it's a theme we talked about a lot. Some things are going to have to break a little bit when we're drastically changing our country from like this addiction on cheap, exploited, foreign, non-English-speaking labor. Yeah, we got a little fat and happy. We're addicted to drugs, basically. We're going to have to go through withdrawals. You're in the corner. You're sweating. You know, we're going to have some growing pains. Nobody said there wouldn't, but I mean, at the prices homes are right now, the way boomers are trading houses back and forth, even though interest rates are high, it's like, yeah, I don't—I don't know. We have a surplus of 50 million people here. Maybe we get that first before we start complaining about home building.
+
+Yeah. As if that's the problem.
+
+We can skip this. Let's go back to California. This is a crazy stat. It's basically talks about how undocumented people are getting tons of benefits.
+
+Yeah, this was another big story that dropped when we were gone, from Chris Rufo, and I think the City Journal. They basically sent investigative reporters to California to figure out the scope of how much welfare benefits that illegal immigrants are getting. And the main thesis here: in California, an undocumented migrant couple with an undocumented grandparent and two US-born children can collect up to $100,000 per year in welfare benefits, all funded by taxpayers. And so that sentence might be a little confusing, because it says a migrant—undocumented couple with an undocumented grandparent and two US-born children. That's like the max combo where all the state things it unlocks to you, right? So you have to have US-born kids because that qualifies you for a certain thing, but you need to be undocumented, and then if you have an elderly dependent, then it unlocks some final tier. The benefits add up. In California, illegal immigrants can qualify for CalFresh, public health insurance, and various tax credits. Their children qualify for others, including CalWORKS, and, as in other states, Section 8 rental subsidies. All told, a family of five with what I just said can get up to 100,000 a year. And $100,000 a year for someone to pay that in federal money. This is state money, but you would have to make 400 grand a year and then you could support a migrant family who shouldn't be here and their stupid kids.
+
+So bad.
+
+$100,000 per year. State leaders are proud of it. That Gavin Newsom bragged about it on a podcast recently. I'm gonna basically not get into too many other details, but they call the headline "California's shadow welfare system for illegal immigrants," because California takes all the federal money that each state gets and they administer that. But illegals can't have that. So they run a parallel state program. So what is it in the state of California? Is it like 10% tax? Do you remember?
+
+Probably.
+
+It's close to that. I'm pretty sure it's like one of the highest. I don't want to speak out of turn.
+
+But all that money is going to illegals. So it's like—the federal money goes to, all right, we gotta follow the rules on that federal money, but all the state money we're giving to brown people who can't speak English, and we're giving them a lot.
+
+Yeah. That's a good dentist.
+
+So California, man, wasting, wasting your—
+
+Yeah. And then we talk about this all the time, but then boomer Republicans like Sarah Huckabee Sanders pretend that the social benefits are being taken advantage of by lazy white people who just want to hang out in the basement. This was the ad she released for her re-election.
+
+Yeah. Oh, you want some of this? Take that. Come on. Meet Brad. Brad has turned relaxing into a full-time profession. But you actually work hard. You pay taxes to cover welfare for guys like Brad who just choose not to work.
+
+Wow. That's why I launched a welfare-to-work requirement. Now more Arkansans are working than ever before.
+
+So she's pretending that it's just like white 20-somethings who just want to play video games and not go to work. And then we've seen this before, too. The speaker of the house did it. What's whatever his name is? Uh, 29. Please read it.
+
+Yeah. It's not for 29-year-old males sitting on their couch playing video games. We're going to find these guys and send them back to work. That was Mike Johnson. We covered that on the show when it came out. And Rep. Scalise on the One Big Beautiful Bill. That was when we were doing those SNAP things. And the federal work requirements, which we covered, minimum hours, all that. The 35-year-old who's sitting in his mom's basement playing video games is going to have to go get a job. These guys are all—I don't know why it's a theme for Republicans, but they're all just hallucinating a person. And if you were going to—if you were going to take an amalgamation of everyone who got welfare, and like you know how they sometimes face-merge every human on earth and it gives you like what it looks like, it would be a severely overweight 42-year-old fat woman who's who's chocolate brown. More dark, right? Imagine doing an ad where you had like Somali scammers or the stats about illegals getting welfare, legal people, legal immigrants getting welfare. It would be a banger ad.
+
+Sheniqua brags about flipping her EBT into cash and selling plates on Facebook, you know, in the voice.
+
+It would be sick. But then these boomer Republicans need to pretend for some reason that it's not what it is.
+
+Yeah. The right-wing went crazy on Twitter over this. She actually came in and doubled down for some reason. I don't know why. And also, white men, especially below a certain age, because the, you know, recipients of federal money usually are elderly when they're getting up there.
+
+Um, white men are the lowest. It's, we're the single lowest percent. So it's just such an inversion of reality. And this is the GOP doing it. And no one has the courage to put a fat, overweight black woman in an ad and villainize her, which is so strange, because they're the only demographic who brags about it on social media. We have videos of them turning the camera on and then telling you how they scam you.
+
+Yeah. Shane has nine kids.
+
+Yeah. Do you want me to read this?
+
+Sure.
+
+Sarah doesn't understand. So the guy doesn't exist, but the guy who does exist is a white guy who's usually been discriminated against in lieu of, you know, that fat black lady or someone. We need less white men. So a white guy isn't doing stuff like this, but they're usually underemployed.
+
+Mhm. Is the point I'll make. And Nick Plum said, "Sarah doesn't understand. Brad wasn't just sitting on the couch. Brad applied to hundreds of jobs in Bentonville. He made it through round after round of interviews and still didn't get hired. He's sitting on $40,000 in debt for the education he was told would give him a future. Meanwhile, the biggest employer in Bentonville is laying off and reorganizing corporate workers while continuing to file thousands of H-1B labor applications. That's Walmart. Maybe the story isn't as simple as 'young American man is lazy and refuses to work.'"
+
+Yeah, there you go. And so we're obviously big proponents of accurate advertising, right? So we've often joked like, what are the ads that white people can be in? Assisted suicide ads, the home invasion guy for ADT commercials, the welfare recipient now, scammer. And so it's obviously a big joke and it's kind of stupid. But at the end of the day, Sarah Huckabee Sanders did make work requirements for welfare people. So fat black women did have to get some jobs.
+
+You know what I mean? That's true. Like it's funny because the messaging is horrible, and they make up a person, and they hallucinate, and they scapegoat a young white guy again.
+
+But they did implement the rule to get the fat scammers off. So I'm not that mad. It's just a matter of like, let's be honest with each other.
+
+Yeah. I wish.
+
+Right. Good points. I'm glad we settled that.
+
+Yeah. And then I want to talk about H-1B workers again, just because this stat was crazy, and it does play off of Brad who's too lazy to go work.
+
+Yeah, this came out over the break that we had: 76,000-ish tech workers laid off since 2022. 670,000-ish H-1B visas issued to Indian nationals in the same period. The pipeline never slowed down, even as Americans lost their jobs by the hundreds of thousands and were permanently displaced. And here's the chart.
+
+So that's like a one-for-one basically.
+
+Yeah. And that's why I'm saying this doctor stuff, the H-1B, the tech stuff, it's a crime. This is all like a crime has been committed. Something's happening to you. And Mark Mitchell said this should be torches-and-pitchfork stuff. I agree. "Hundred billion dollars in economic benefit annually wantingly bestowed to the third world by greedy corporates and their pet legislators."
+
+Yeah. Sarah, how could be Sanders? Well, you know, then I saw this tweet and I thought it is something to remember.
+
+If you think the talent is coming from countries who haven't even figured out waste management and proper sanitation yet, you are a victim of globalist propaganda.
+
+It's easy.
+
+I tend to agree.
+
+And then the last piece of our migrant section, I thought was kind of funny.
+
+Uh, a couple have been mocked online after they made money renting their house out to illegal Syrian migrants, only to find out they now can't get their home back. And it says the title says, "We rented our second home to refugees. Eight years later, we can't get it back." And they get their picture photographed for this. And somebody else said, "She worked for a nonprofit helping refugee resettlement."
+
+So I never thought the scorpion would bite me.
+
+That's what you get.
+
+Yeah. Yeah. That's another shattered worldview. That's just like the woman who sent her kid to the all-black shitty school, you know? I've—how many times have you had your worldview shattered? I'm asking broadly.
+
+Right. We have two lib tards, and we're not even out of—we're not even into Cringe, right? I can't think of—I can't really think of it.
+
+Yeah. All right, let's moving on.
+
+Okay, let's move on to the final page of housekeeping. Please tickle and juice. You know what to do. Help us in the comments. Make sure you're subscribed. Hit the like button.
+
+Rob's in Tuscany.
+
+Rob is in Tuscany. That's why I wasn't here last week. I was also traveling somewhere.
+
+Yeah. Yeah. Rob's in Tusky.
+
+Fleckus is all of a sudden off for a week. Rob's in Tusky.
+
+Rob's in Tuscany. Um, okay. I found out some interesting information. You ever know anyone who chews ice a lot? You ever see a guy who's like constantly chewing ice? It happens when people are old and sick, especially old people. They'll kind of chew ice. Chewing ice means you have an iron deficiency.
+
+Interesting. You're yearning for iron.
+
+So if you guys—if you guys know people who chew ice all the time, or if you have like old people in your lives who kind of just get like relief from chewing ice and you can't explain it, it's because they're low in iron.
+
+Okay. And then you put that little iron fish in your soup. You ever see that?
+
+No.
+
+Yeah. There's like an iron fish that Asian people put in their pots.
+
+Yeah. And the iron leeches out of the iron fish, and then you get more iron in your soup. They slurp it up in your broth. They slurp it up, of course.
+
+And then, yeah. Yeah. And you can eat the fish raw, too. You just bite the fish's head off.
+
+All right. All right. Number two. Do you know about pie plates?
+
+No.
+
+They're basically plates for pies, but you can use them for you. And I've been using pie plates as my plate. And so it keeps them in.
+
+It keeps it in. And it's like a bowl, but also a giant plate. And look at—I mean, it's so much better. And you get them at the Goodwill store for like a dollar.
+
+You get these cool—
+
+Used poor plates. Used pie plates from the Goodwill store.
+
+The shortest, second-shortest story ever.
+
+Used pie plates for sale, or whatever.
+
+Um, so I just wanted you guys to know about pie plates. It's like the best way to eat.
+
+Okay. Actually, while you're here, I actually have a little random piece of housekeeping.
+
+Yeah. Yeah. I'll check if the time's good. Yeah, you can do it.
+
+Plastic razors. Have you guys ever heard of plastic razors? I'll grab—I'll grab a picture.
+
+Not for like your face, right?
+
+No, for like scraping.
+
+Yeah. Yeah. Scraping. But for scraping you don't want to damage. So I bought this on Amazon. It was like $9, and it came with a bunch of replacements—like a straight little razor blade thing. And then if you have like gunk, or you know there's something on your car or surfaces that you want to use your car—
+
+I don't know. I—
+
+Because I had a decal fall off my car, and then it left like the residue of the glue.
+
+You scrape it off.
+
+And I can spray it with some stuff and I can hit with the thing. So plastic razors, it's kind of a misnomer.
+
+Rob, the car guy, let me know if I can use plastic razors on my car, please.
+
+I wouldn't recommend on people's paint, but tables, the gunk, like anything you got gunk buildup anywhere. I used it. I'm sold. I'm in.
+
+So high plates and plastic razors. Yeah, that's the takeaway from today's episode.
+
+Um, and then this is something you sent. I thought was pretty funny.
+
+Yeah, we're still in my part of the final page of housekeeping. There's a story that we're basically skipping that happened while we were gone. Um, here's the title from the article: "Saturday night at the Massachusetts lesbian bar everyone is talking about." And there's this bar called Last Ditch, a bar and art space, ended its COVID mask requirement as a way to attract more people. What it got instead was outsized detention. So woke lesbian bar that had a mask mandate all the way up until September 26. Finally said, "All right, guys. We're calling it time of death. September 26, six years after CO started, or whatever it is."
+
+Also the name Last Ditch. I'm trying to figure out how that's like a disgusting sexual pun, but I couldn't figure it out.
+
+Rotten clams.
+
+All right. Sorry. Sorry. Um, so basically we're skipping that story. You can use your imagination on who the management was, who protested against it, all that. But, uh, people were—it was kind of did a conversation about these lesbian bars. And it's a call back to something that we covered. I think we made it the thumbnail of an episode. It was about Gen Z faking disabilities. Basically, the younger people, they fake canes, they fake having POTS, they go to constant doctors until a doctor finally says, "I guess it's POTS. Just leave me alone." Right? And it matched with another thing we figured out a long time ago that gay guys, when they wake up from surgery, they go, "Where am I?" instead of, "Where am I, bitch?" So there's—they wake up from anesthesia and there's no gay voice. A similar thing is happening with the Gen Z people who fake their disabilities. And this is from a random commenter with no credibility, random, but it rings true, and it's anecdotal. And they said, "I work at a different lesbian bar in the country, and can I tell you the amount of canes that get left behind at the bar because they forgot about them the second they actually get drunk?"
+
+Ah, so the people who fake the disabilities, and yes, this is my cane, my mobility aid, they go start drinking a little, who—
+
+Leave the cane at the lesbian bar.
+
+Wow, that's funny stuff. So it's not really worthy of its own section, but I wanted to get that out there.
+
+Final page of housekeeping.
+
+All right, final page of housekeeping. I have a bunch of fun sports stuff. We're going to go quick because we're running out of time. But I just want to show you guys fun sports stuff. The head coach after a big win does some blood ritual.
+
+He wipes the blood, wipes it on his face. Blood play.
+
+Blood, sweat, and tears.
+
+That's cool, though. I like that. That's Americana.
+
+Yeah, sure. Next. This is an interception. And then the guy who tried to catch the ball on offense tackles someone like crazy. This guy's a highly recruited tight end, right?
+
+Yeah. So he throws the ball, gets picked.
+
+Is that illegal?
+
+I don't think so. They throw the flag, but it's like this shouldn't be.
+
+That's a clean slam, dude.
+
+That was a clean slam. So that kid's going places.
+
+Okay. Then next, I saw this. I thought this was interesting.
+
+Uh, yeah. This is from the Missouri game, and it says it's apparently there's a problem with the running back depth on the Tigers.
+
+They're the Tigers, right?
+
+And uh, Malay Fouti, he has a torn ACL. And Ahmad Hardy, he has a gunshot wound. He's still recovering from a gunshot wound.
+
+Yep. Uh, so this is all fun sports stuff. Okay.
+
+Uh, this was after a big win, and then the security tries to stop people from storming the field, but he can't. So he's doing his pass sets, but he's just kind of like hitting him. He—
+
+That's a—
+
+Got a girl. The only one he got was a girl, and it actually worked.
+
+The battle is lost, and he hits a girl with a forearm shiver and cute dress. She just wanted to have a nice night. She saw other people. She wasn't leading it.
+
+She's taking a picture.
+
+Poor girl. And like after a certain point, it's like no one's stopping anyone. You can't win.
+
+It's over. All right. I stopped this group. Everyone else is on.
+
+Uh, next, uh, there is a new commit to the 11 Warriors. Can you—
+
+Ohio State. The Ohio State basketball team has—
+
+Yeah. Can you read his name?
+
+Dang Nagore.
+
+Yeah, there you go. Dang Nagore. So, congratulations to him.
+
+Fun sports stuff.
+
+Yeah. Yeah. And then this was a botched home run catch attempt by a fan, an old fan.
+
+Old man. He brought the mitt. Boom.
+
+Missed. He had the glove, too. And he got it right in the face.
+
+The hat took some of the thing off.
+
+I don't know. Depth perception when you're old.
+
+Eyes on, man. Here it is. He's got his eyes on it the whole time.
+
+Right in the face.
+
+Poor guy.
+
+Tough. He's okay.
+
+Okay. Did you make that up?
+
+Yeah. You—
+
+The other—so, this is all fun sports stuff. The other day, uh, a couple days ago, in Tropicana Field in St. Pete, Tampa, where the Tampa Bay Rays play, there was a game between the Red Sox and the Cubs, because there was a storm and they had to play a game.
+
+Uhhuh. And then I was telling Rap Boy like that's almost like a dream, like, "Oh, I had a dream we're in Tropicana Field, but the Cubs were playing the Red Sox, like you would never ever see that in real life," and then it kind of happened.
+
+Okay. So I thought that was interesting. Okay, so we showed all the fun sport clips, but you know what that means? When we show a bunch of fun sport clips, we also have to show gay sport clips.
+
+To balance it out.
+
+To balance it out. So this is the first one I found.
+
+Says, "Come do my makeup with me before my baseball game. Come with me as I do my makeup before my game in front of thousands of people as a professional baseball player."
+
+I always like to start with pink eye black. I'll switch out my designs before.
+
+All right, that's enough.
+
+Yeah. What is this? Savannah Bananas.
+
+I was going to say, is this a Savannah banana?
+
+I think it's the—it's the people who come and get killed by the Savannah Bananas. I don't know. I don't know how that league works.
+
+Yeah. I mean, bunch of twink, you know.
+
+And then another gay sport clip. Unfortunately, can you read this guy's name?
+
+Yeah. What? He's—he's playing. He's on Liberty. That's our school. That's like a—we like Liberty.
+
+Yeah, I like Liberty. But his name is a DB, number seven.
+
+I blew a guy. 62, 200. He looks good. He's a fifth-year from Ocala.
+
+He's an otter.
+
+All right. He's a muscle otter.
+
+Okay, chill. And then, well, we probably like him. I blew a guy. We'll send you a shirt.
+
+Um, and then there's a Liberty, you know. Then I found this guy who works for the Yankees, I believe, and he just does his outfits like while he's doing the Yankees events, and he works in like the Yankees—I don't know, front office, I guess—and this is what he wears.
+
+Sports fem guy, live from Sports Illustrated Stadium. I'm here with my boy Gino. Gino, you like gay people?
+
+Of course. Of course.
+
+I'm here with my ally Gino. Tops, H&M. Skirts. Princess Polly shoes. Steve Madden earrings. Ali Weiss jewelry. Always. Let's go New York City FC.
+
+You see he's wearing the shoes with the nail polish.
+
+Testosterone level is 89. A doctor is warning me about this. And we have another clip from Yankee Stadium.
+
+Sports fem guy, back at the best stadium in the world, Yankee Stadium, the Cathedral. The fit is insane today. One of my favorite outfits ever. Dressed from Mango. Shoes, full on. They are absolutely killing my feet. Cannot wait to take these off the second I get out of here. But the fence laid today. Worth the pain.
+
+What does he say at the beginning? "Sports can be gay."
+
+Yeah. It's like, brother, not here.
+
+Yeah. I guess you can, and if you don't get fired, and now they have to be gay.
+
+Yeah. Yeah. But that guy looks like someone you'd go to high school with.
+
+Yeah. Yeah. He got hijacked.
+
+I was thinking like, oh yeah, he grew up next to a golf course under some power lines.
+
+Yeah. And like some toxic sludge got buried there 40 years ago, and his asbestos is still in his roof. Like it's a six things happened at once.
+
+He's eating got some chips.
+
+Mom, I want to put on a dress.
+
+But something.
+
+What are you talking about, Anthony? You want to put on a dress?
+
+But something happened. Like he looks like he looks like a normal guy who lost like a fantasy football bet.
+
+Yeah. Yeah. Yeah. Yeah. I don't understand what happened.
+
+Sometimes we show you a clip and there's nothing to learn. There's nothing to learn. There's just some hypotheses that'll come up.
+
+I didn't know they made them like that.
+
+Yeah, I didn't either.
+
+All right. Well, that is the end of housekeeping. We're now moving on to Cringe of the Week.
+
+All right, our first story from Cringe of the Week. We basically have an incapable worker section here, and we're going to start with our own government. Uh, here we have Jim Justice, I believe is his name, and he had a dog birthday party parade. "Happy birthday to you. Happy birthday, dear baby dog. Happy."
+
+We're also $40 trillion in debt. We have 100 million illegals here, and we can't pass the SAVE Act.
+
+There's a hospital with 80 out of 82 foreign-born Indian-type doctors. So—
+
+Dog dog had a cute birthday. Dog birthday. Take your dog birthday.
+
+Yeah. Bad.
+
+All right. Next. Apple has an online kickboxing class that you can like click and follow along at home. And the person who's doing it is this woman.
+
+Asalam alaikum, champ. Coach Nez here with a 20-minute kickboxing workout for you.
+
+It's a Muslim woman doing sign language, teaching a kickboxing class.
+
+Yeah. In a Nike hijab. So it's like the corpses. Apple is still so successful they can waste your time a little bit on this, but they're like laughing at Nike while doing it. It all bad.
+
+Yeah. And you guys probably saw this from last week. Mets player got like seriously injured. There was a collision where someone kneed him in the head, and it just like knocked him out, and then he had to get saved on the field. We'll play it in the background here. And then this fat guy saves him. And then this woman who can't lift up the thing, and he—they can't lock it out, and he has a neck injury, and the guy's banging his head into this guy's gut, and then they come to load him onto the golf cart, and they're really banging him around for someone with a neck injury. So you're a multi-million dollar contracted MLB player on the field. You get a horrific injury, and some obese man who doesn't even look strong, and a woman who's 4-foot-11, who's—you know, not good either—they come and they jar your neck around right on the way out.
+
+And like any—
+
+And who's the driver? An Indian guy is the driver.
+
+And then any of the Mets players standing in the background could have been like more capable to help.
+
+Yeah, they just show me where the lever is. Okay, got it. Smooth transition.
+
+Yeah. All right, next.
+
+I'm tired of seeing sloppy fat. I've—there was a famous clip in a soccer game where a guy was horrifically injured, and some medic runs out, and he's a fat idiot. He's from the other side of the field, and one of the soccer players runs to him, grabs his medical bag that's weighing him down, sprints, and fries it over to the injured player. So like this is like a long-time thing.
+
+Crazy.
+
+I don't know. I guess—oh, I can't discriminate against you, because I don't know, there are no rules about being able-bodied to do a job where you're obviously going to need to be able.
+
+All right. Who's going to be the fireman?
+
+Uh, Deb.
+
+Fat Deb. The lesbian bulldike. Take your mask off.
+
+And then next, um, we'll just play this in the background. It doesn't require sound, but there was, uh, President Xi and President Trump had a meeting, and then the Chinese—whatever came, and then there was an issue where Secret Service got mad at this Chinese reporter. But we still have Secret Service women. That's the takeaway. And I was thinking, are these women the most capable and qualified people we have? Like these two are the best, and we can't get better, and that's why they have the job. And if the answer is not yes, we should find a man who can actually do it.
+
+Yeah. And the answer obviously is not an enthusiastic yes.
+
+Yeah. And then we have a firefighter here who is struggling to control the hose during an active car fire. That's two. That's twice. Spray your buddies.
+
+And like this is a guy, and what—maybe it's training.
+
+Probie.
+
+It looks like maybe he's not holding it at the right angle or whatever. And there is a thing where like firemen will line up in support and say like, "Relieve the nozzle man." Like, relieve the nozzle man.
+
+But come on.
+
+Yeah. What happened? Not very good.
+
+Um, and then we have a story here of a fireman who is good, but they wanted to make him not allowed to be a fireman anymore. And check out why.
+
+Career out of it would be, uh, the goal to get paid to do what you love.
+
+But Andrew's application to the Fremont Fire Department has been rejected by the city because his high school diploma shows he's been homeschooled, which is an unaccredited education in Nebraska.
+
+Yeah. We're not mad about one applicant, my application. I think now it's turned into we want to make sure that every homeschooler has an equal opportunity.
+
+So that's the key. And there is something deeper here where they want like homeschooling to be illegal. There was a tweet that kind of sums it up, but this is like the start of it.
+
+Yeah. This, by the way, is how the left will ban homeschooling. They won't draft a piece of legislation that says homeschooling is illegal. They will just create a world where you can't get a job or go to college if you are homeschooled. They will force parents' hands. And this guy is already a volunteer firefighter. He wants to move to paid. And I guarantee if there was still an aptitude test for the fire department, he'd be like at the top.
+
+Yeah. So he looks physically capable. He likes the job.
+
+But they needed to go to migrants, I guess.
+
+Yeah. So any broad themes for your competent-incompetent workers section?
+
+Lots of incompetent. No more homeschools. The goal.
+
+Yeah. Something like that.
+
+Okay. All right. Next, we have a person who is too fat to be bathed at the hospital, and they're mad about it.
+
+I'm so tired, y'all. I've been on the phone all morning and tired. I guess I'm just getting discharged right back to the facility. Girl, I called DCF this morning to try to see if an investigator can come and try and block the discharge. The hospital. They're ready to send me back out today, girl. And most likely, I'm gonna be discharged back out today. I sure am. It's like they don't care that I don't have a bed that doesn't work. I don't have a chair that I can get into. They don't have people that don't want to come bathe me properly because of my size. The fact that I can't—there's no microwave there at the facility. The fact that I wrote a grievance on the fact that the CNAs can't get—like if I buy food, meal, I literally buy food to get heated up, healthy meal prep food—they can't take it to the kitchen, because we don't have a microwave. They have to take the food to the kitchen. The kitchen has to properly heat the food up. There's barely any kitchen staff to begin with. And then the kitchen staff get mad at me because they feel like I'm—I'm writing a grievance on them personally. No, I never wrote a grievance on the kitchen personally. I would agree with—
+
+So he doesn't like how the people—
+
+I think this is a woman, and that dovetails into the point about once you get so fat you lose your gender.
+
+You just have various shapes, and you kind of merge into one thing. I think this is a woman based on the no beard, because a fat guy wouldn't maintain his beard. Someone who's in the hospital like this.
+
+That's a great point. So, I was going with woman.
+
+So, pardon me. Uh, she doesn't like how she's not being—or how they're bathing her.
+
+Yes. Do you have a problem with how people bathe you? How do you deal with this?
+
+I don't know. I've never had it happen. I've never been in a hospital like that.
+
+So, I'll have to defer. I'll tell you when I get bathed.
+
+Um, I have a couple points to make. Remember we showed a fat girl a long time ago, and how you're like stuck in there? That theory, like once you're so fat you're stuck in there. You're like, "Help, I can't hear you," you know.
+
+Yeah. So she's stuck in there. But I don't know. My main theme is, and we just covered all the Indian doctors and stuff, and I'm not bathing you. You're 490 pounds. I can't bathe you. Whatever. But you see how a certain type of person has problems everywhere, and it's like you're dysfunctional. You're up. You can't control your weight. You're in the hospital because of weight-related, I'm assuming. And then you got a problem with the people who bathe you, with the nurse, with some sort of billing officer, the kitchen, the bed, the chair. None of it's up to standards, right?
+
+I don't know this. It's just like a miserable type of person where you could get any situation and there'd be like a list of complaints, and not one of those complaints would be, "Man, I wish I wasn't 600 pounds."
+
+Yeah. The world's not built for people who are 600 pounds.
+
+How's the world going to change instead of me right now?
+
+Yeah. So, I don't know. I just threw this in because it pissed me off. And that's one of those—you know how we get the all the EBT scams, we get the federal Medicaid scams, we get all these types of money scams, but the one thing we can't look into because of HIPAA is the hospital. And I'm afraid that all of the hospital expenses are illegals, and then people like this who like want to live at the hospital.
+
+So true.
+
+So I don't know. I just—when people film it themselves, we have to kind of show you.
+
+Yeah. Because it's hard to get in there.
+
+Yeah. It's hard. The doctor's jobs depend on it, right? And then, as we know, half the doctors are foreigners, so they're not even communicating with us on the level. So I just wanted to get that out there.
+
+All right, let's get to our next story. Uh, Miss Rachel has an interesting theory about how the right wing isn't actually Christian.
+
+The rights of children here, SNAP benefits being taken away. That was so psychotic. And Rachel, it's like, is—
+
+In the name of Christianity, too. Let's be a more Christian nation and take away SNAP benefits.
+
+Who said that?
+
+Let's be a more Christian nation and put our neighbors and the stranger, which is in the Bible, as like—
+
+Welcome the stranger. Put the strangers in detention centers.
+
+Right? And like it's just—
+
+It's so psychotic. It's it's—and let's make more and more money and not help others, and let's deny people's healthcare. It's like, but the SNAP thing, I mean, that just breaks me. You're going to complain about a child having enough food, and like, I'm so excited that I heard from Troy, who's running for Senate in Maine, that they have free lunch at the schools, and I'm like, that's awesome.
+
+Oh wow. And it's like she's trying to classify SNAP as charity.
+
+Yeah. That's our tax dollars. It's going to Doritos and fat inner-city moms with eight kids. I don't know what everyone thinks.
+
+As if it's like, "Oh, this is the orphan food bank. We're shutting it down because of Trump."
+
+It's like charity isn't giving people free money to do whatever they want with.
+
+And that was just kind of interesting. There's a tweet that sums it up as well.
+
+Yeah. One of the most replicable findings in all of American political statistical analysis is that Republicans give significantly more to charity and volunteer more for the poor than Democrats do. It's not even close. It never has been before, or it never has been close. And that was something we've covered on the show, that Democrats like to vote their charity in, and a lot of Republicans actually like to do the charity. And then there was another study that references this, that as the homogeneity of a population decreases, then charity and helpfulness does too. So multiculturalism actually gets in the way of people volunteering and contributing time and money, because you don't want to help by just giving your money to Indian people, foreigners who got here yesterday.
+
+Yeah. No thanks.
+
+People who don't appreciate it.
+
+This Rachel is on an absolute terror. Nolan Wells didn't drown. Black people don't hang themselves from trees. The right isn't Christian because they took away that program that was getting massacred. She's a real certain type.
+
+She got the $50 million deal.
+
+And she references the Bible so easily. I think she's a Unitarian.
+
+So she does—whoever comes up and talks at the podium, she goes like this.
+
+All right. Well, that's the end of Cringe. We're now moving on to Urban Decay.
+
+All right. Our first story from Urban Decay. A doctor was murdered for no reason. Detectives say that he broke into the home. This couple was sleeping, and they say that he started attacking them, stabbing them both multiple times. And the couple, they say, fought back. The motive is unknown. Now, police say Hemingway entered the home on Lynen Avenue in Edgewood through an open rear window. KDKA captured the moment Hemingway was on a stretcher and wheeled into an ambulance. Police are not sure if he knew the couple. According to the criminal complaint, the victim's wife told police she and her husband were sleeping and they woke up. She described the man as, quote, "psychotic," and said that he repeatedly made utterances about God and being God. The suspect was in his underwear during this attack. She recalled her husband calling the suspect Elijah. The mom was able to yell for her two kids to get out of the house. They did, and were not hurt. County police say a Monroeville Police Department K9 unit tracked the suspect down to Evans's next-door neighbor's home. They found car keys where they found him. Hemingway had cuts to his hands. The victim has been identified as 46-year-old Dr. Idris Evans. He was the medical director of the pediatric critical care transport team at UPMC Children's Hospital.
+
+Very sad. And the doctor was the white guy.
+
+Ah. Ah. Yeah. Yeah. And he was like a beloved guy in the community, apparently. Someone kind of talked about that in a long write-up.
+
+Yeah. The brutal slaying from yesterday is actually getting attention, as the victim was a highly regarded pediatric doctor. But the details of the savage scene that unfolded near Pittsburgh, PA, and the ongoing insanity of our justice system must be fully articulated. In the overnight hours between Wednesday night and Tuesday morning—that doesn't sound right—a black criminal, already out on bail for first-degree felony burglary and third-degree felony theft, broke into the home of a white 46-year-old doctor named Idris Evans and his family. The soon-to-be killer, black 32-year-old Elijah Hemingway, ascended to the third floor of the home and entered the bedroom of Idris and his wife, Gina. As the couple slept, kitchen knife in hand, wearing nothing but his underwear, Hemingway attacked Idris and Gina while screaming about himself being God. Upon the couple's rapid awakening, a brutal struggle unfolded in the bedroom. The scene was described as extremely violent, with broken furniture, smashed mirrors, and blood covering the walls and floors. As Hemingway repeatedly plunged the knife into Idris and Gina Evans, Gina screamed aloud to awaken their eight- and 12-year-old children, bellowing for them to flee the house. The children did, and escaped unharmed. Gina eventually managed to escape as well, surviving multiple severe stab wounds and lacerations. Idris, however, bled out and died in his own bedroom, where minutes before he had been peacefully asleep with his wife, hours from awakening for another day of duty at Children's Hospital of Pittsburgh.
+
+So, we get it. That's brutal. But in the middle of the night, you wake up and someone's just stabbing you and killing you, and then you're thinking, "Oh, I'm just going to die, but at least I'll yell to my kids to get out of the house."
+
+Well, and that's kind of the duty, once someone's already in the house, is you have to fight the attacker long enough for everyone to escape. And unfortunately, if you don't have a gun next to your bed, and you don't close the windows in your house, I mean, that's—I'm looking for lessons. Usually, the open window. It sounds like Elijah knew this guy, or he called him Elijah. So there might have been some history, but we don't talk in these—these—body cam mental breaks where I'm God and no man can stop me. There's a lot of the same like bravado and energy. They have a similar mental break.
+
+Yeah. And then someone had a dumb theory about this.
+
+A lot of social justice warriors on Facebook, especially leftist white women, are trying to insinuate the black man knew this white doctor, and maybe his son was like a patient of his. There's like no basis for this, but that's what they're trying to do. Maybe there's an explanation for why he would do this.
+
+Yeah. It's like they're doing the Lindsay Clancy thing.
+
+Well, the guy knew his name, so that's what they said. So—
+
+Yeah. So, not many people are going to be talking about this story, and it's—
+
+Well, it'll die after 24 hours.
+
+Exactly. It just becomes like one headline, a 30-second piece of the local news. But don't worry, they're doing the "stop the lynchings" panel conversation. That was last week.
+
+Yeah. This is from September 18th. All these black and brown faces are talking about stopping the lynching. And remember, not a single white person has been involved. There's multiple black people arrested, and then multiple confirmed suicides so far from the hangings. So—
+
+And this white guy got lynched.
+
+He got stabbed to death.
+
+That's a lynching.
+
+Yeah, it's a—it's a violent murder. So—
+
+Depending how you—
+
+Yeah, exactly.
+
+And then our next story, we have two hit-and-run stories that are really crazy. The first one's from Chicago.
+
+Yeah, this is kind of I'd call it a South African story. South Africanization of America, because everybody you encounter at the lowest moment is not helping you. So a Chicago Police Department dispatcher was trapped in her wrecked car with nine broken ribs and two fractured vertebrae, desperately waiting for help to arrive. That's when this couple allegedly slid into her car, stole her credit cards, and patted her down for valuables.
+
+So she was like incapacitated, like unconscious, and up after—
+
+I'm trapped. Get the seatbelt off.
+
+Yeah. Waiting for first responders to come, and someone comes in and steals everything you have.
+
+Yeah. And not only that, um, but this is I'm going to read from the story. A veteran Chicago police dispatcher was pinned inside her wrecked car with nine broken ribs and two fractured vertebrae when a man climbed into the back seat and stole her driver's license and credit cards. Prosecutors say the man's girlfriend then got into the front seat and began patting the injured victim's waistline, apparently looking for more valuables. Victoria Messina, a dispatcher with the city's emergency management and communications for 26 years, was driving home in uniform when another vehicle slammed into the driver's side of her car at the 3,300 block of West Douglas Boulevard around 2:30 p.m., July 3rd. The other driver ran away, leaving Messina trapped in the damaged vehicle. A bystander let her use his phone to call 911, but the wreckage and her injuries kept her from getting out. So it's a hit and run already. And then you're trapped in the car waiting for help. And who comes? 25-year-old James Nelson climbed into the back seat, opened her purse, and took a black coin purse containing her driver's license and various debit, credit, and gift cards. When Messina asked what he was doing—so she's conscious, just trapped, and with a hurt back—Nelson's girlfriend, Mahogany Van, 24, allegedly got in the front passenger seat and began feeling around Messina's waistline as if searching for something. Nelson and Van fled as sirens approached. Chicago firefighters extricated Messina from the wreckage and took her to Mount Sinai, where she soon learned that two of her debit cards were being used at a gas station in the 500 block of South California Avenue. According to prosecutors—
+
+Immediately started running it.
+
+So you are driving along, you're a normal contributing member of society. You get hit and run by a black or an illegal, right? Let's be honest. If I was a betting man, black would be minus 300. Illegal would be minus 250. White guy with insurance would be plus 9,000 or something.
+
+Yeah. If I was a gambling man. And uh, everyone—at least there's one good Samaritan. Let him use the phone.
+
+Held the phone up to your crumpled car and body while it was flipped, and said, "Yeah, call 911." But you get hit and run, and then the people steal from you.
+
+So yeah. And you can't say the word, because that would be a problem. You can't say a certain six-letter word with a hard R at the end of it, because I don't know—that would be rude. That'd be violence.
+
+You'd get fired or something.
+
+Yeah. And the picture of the couple, obviously. Unkempt dreads. But you know, if the dreads, even if they aren't unkempt from that man, the neck tattoo into the dreads, that tells a whole different story that supersedes any sort of cleanliness of the dreads. I hope you guys know that.
+
+It's not a single-variable thing.
+
+Yeah. And like we always say, these people weren't looking for, "Oh, we're going to go do a crime today." They were just walking by. They saw an incapacitated person because they got into an accident. And then they said, "Okay, now we can do a quick crime."
+
+Yep. Exactly. Opportunists.
+
+And then let's go to the gas station and buy whatever.
+
+What do you think they bought? Blunts and—
+
+Blunts.
+
+Some of that grape drink.
+
+Yeah. Mad Dog 2020, if they got that.
+
+Yeah. Yeah. Probably gas.
+
+Yeah. Yeah. They're filling up other people's tanks for 50 cents on a dollar, or for charity. Give it back, tidings.
+
+Um, all right. Another person did a hit and run, and it killed somebody, and they're getting off pretty easy.
+
+Lance's family and friends were in the courtroom today. I actually just got a text from Lance's partner, and he tells us that he's extremely disappointed in the judge's verdict, and his mother was there, as she tearfully described what that loss has been over the last couple of months. They also heard an apology from the woman who was responsible. That's Kalandre Hood. She faced—sin for a felony hit and run, an involuntary manslaughter. Lance Satello, a Queen's University graduate and runner, was hit in January at the Plaza and 36th Street while out for a run. Well, his mother told the judge she forgives Hood, but she cannot forget. Hood also stood, and she apologized, asking the family for forgiveness. She said she wishes she could turn back time. I spoke with Lance's partner, as mentioned, right before the sentencing as well. He says, "Today was supposed to be about accountability."
+
+So, we're going to stop it there. You understand it's a hit and run on a jogger, a youngish man, and she got 30 days in jail and probation, and then had to pay $765 in restitution.
+
+That's for the dead body.
+
+That's for the dead guy who, you know, probably could have lived if he had gotten immediate medical attention. I don't actually know the extent of the injury.
+
+Kill someone, 700 bucks, even.
+
+But you certainly—
+
+And then 30 days, what? You miss your shitty job, you know? It's not like you missed anything. So—
+
+You could like take a month off from work and say, "Oh, I got some stuff going on." And then like go back to work, and no one even knows.
+
+Yeah. And uh, there it's just kind of a reminder. You know, we talked about attempted murder being not enough of a punishment. There's a lot of ways that you can kill someone in America and get kind of a light slap on the wrist. And with your car is the—is the best way to do it. You can do a hit and run. You can do whatever, and it'll be involuntary manslaughter, though.
+
+Yeah, even when you ran on purpose.
+
+Kind of a gap. Kind of a gap in, like, I would trust that in 1960 America, probably, but given the way people are swerving and driving and cell-phoning and musical.
+
+Yeah.
+
+All right, let's get to our next piece. This is one I mentioned in the intro. Um, a dad went to the bus stop because his son was getting bullied, and then the bullies came off the bus to fight the son in front of the dad, and then the dad pulled a gun to de-escalate, and then the bullies are now the victims.
+
+This is the video showing a 14-year-old and 16-year-old, along with who we're told is a parent to a student. Seconds in, and a gun is drawn.
+
+I know it. I know it.
+
+R.J. and Trevor are the two teens seen in the video. R.J. tells me it started with a fight between him and the man's son.
+
+So, I got off the bus, then we drop our backpacks, we're about to fight. So then he tells the dad like, you know, "Let him fight. Don't touch him. Don't do none of that."
+
+And then next thing you know, he put his son behind him, and he pulled a gun out on us.
+
+The 14- and 16-year-olds say they put their hands up and froze.
+
+It's life or death right now, you know. It's a gun. So I'm backing up. I can't process anything. I'm just like, "Am I going to make it home?"
+
+Martin County Sheriff John Boonseek says no criminal charges were filed in this case.
+
+He's legally allowed to stand his ground.
+
+The sheriff says the whole incident began when the man's son reported being bullied the next day. The sheriff says the father drove his son to the bus stop.
+
+The dad started talking again to the bus driver, at which point the 14-year-old took it upon himself to get off the bus and confront the dad.
+
+The sheriff tells us things only got more heated from there. And they got all the way up on him before he pulled out a concealed weapon and told them to get back, which he's legally allowed to do.
+
+I feel like under any circumstance, however you felt, no firearms should be displayed at a bus stop where there's a bunch of kids on the bus looking forward to going to school.
+
+The sheriff says the father is now pulling his son out of school to homeschool him. We're going to continue following.
+
+There you go. The kids getting homeschooled, but uh, a bunch of kids looking forward to going to school. They are just excited to get to class. And do you guys know, it's so funny what you tell the news versus what you see on social media clips. Like, he got off the bus to go do this, and then pops off his backpack, and probably did one of these, you know, those stupid black guy fighting stances.
+
+And then the other kid tells the dad, "Don't get involved. Let us fight." And then the dad just puts the kid behind him, pulls out a gun, and was like, "No, we're not doing that."
+
+God bless the state of Florida, and sheriffs like that who come in and go, "Yeah, nothing I can do." And I like how every little single thing in the newscast is kind of like a pulling at your heart strings. Like this 14- and 16-year-old. It's like, yeah, you can be a—I saw a bad 13-year-old who had like 30 felonies. Yeah.
+
+You know, I don't really care. Age doesn't really matter. And also, the funny part is, I don't think anyone should bring a gun to a school bus stop. And it's like just what I'm—everyone should be at the level that I am, which is fighting with fists. Like you, you know, you don't get to dictate terms when you're a criminal scumbag.
+
+Yeah. Threatening to beat people up. Like this is exactly what guns are for.
+
+Yeah. It's a great equalizer. A few YNs come up on you to jump your son. We weren't going to jump him and stomp him out like we show on the show twice a week for the last four years.
+
+I promise once you were knocked out, I wasn't going to kick your head three extra times.
+
+Yeah. Like this. Do we, you know, is this what the guns are for or not?
+
+Um, but some of the funny lines, you know, "a bunch of kids looking forward to going to school."
+
+Is that what it was?
+
+We told the dad to let us fight.
+
+And then um, some people were saying like, "Oh, you should only use guns for imminent danger." Why'd they pull the gun out? This is imminent danger. It's not even close.
+
+Stay your ground, brother. Stay on your ground.
+
+Decided to go to school. I don't know. Y equals MX plus what?
+
+Calculate the slope of this line. And it's like a 45-degree angle. Easiest line.
+
+Yeah. 3.
+
+Yeah. So that was pretty crazy. And I'm glad that the sheriff didn't do anything, because you gotta be able to—this is what guns are for.
+
+Yeah. That's the perfect use. You de-escalated and settled, and nobody got hit.
+
+Yeah. And then everyone just got back on the bus, and they probably aren't going to with that kid anymore.
+
+Well, he's home now.
+
+And then here's a situation where a gun was inappropriately drawn at a bus stop, and no one really heard of it.
+
+Yeah, this is kind of going in our road rage series, which we've randomly been building up recently. Some of the worst ones. Um, you know, the getting honked at is a big trigger, but we're going to read the story. Armed woman allegedly forced her way onto school bus during Indianapolis road rage incident. Um, an Indianapolis woman faces felony charges after police say she forced her way onto a school bus last week and waved a gun during an apparent case of road rage. Jia Sutton, 19, was arrested Wednesday on the city's east side after Indianapolis police were called to a road rage incident involving a Kia K4 and a school bus with 37 children inside.
+
+Sure, she had a good reason. She couldn't squash the beef. Ah, there kids in there. Uh, she had to go do it.
+
+The bus driver probably wasn't trying to do anything to me personally.
+
+IMPD officers were called on September 16th to the intersection of whatever, in reference to a vehicle accident. Upon arrival, they found Sutton's Kia parked sideways in front of the school bus and blocking the roadway, like a GTA 6 move. They soon determined that no vehicle crash had occurred, but rather that Sutton had hit a construction sign after the school bus pulled out in front of her. Sutton was reportedly angered and thought the bus driver was at fault. So she told police she followed the bus. Once she concluded that the bus was not going to stop, Sutton told officers she pulled her car around the bus and parked crookedly on purpose in order to prevent the bus from leaving. This is like technically a light—38 counts of kidnapping, maybe, you know, with the wrong DA. Officers on scene also spoke with a bus driver who said that the bus never collided with Sutton's car. The driver added that she had never even noticed the Kia until it pulled around in front of the bus and stopped it from driving down the road. The driver told officers that Sutton then got out of her car armed with a black handgun. Sutton then allegedly began waving the handgun around, walking around the bus, and yelling for the driver to come outside.
+
+I'm sure it was, you know, there's articles, and then there's what we show you on Urban Decay. And I'm sure it was, "Come outside, Dan. Come outside, Dan. Come outside, then."
+
+On our phone, too, like, "Come outside. Come outside."
+
+When the driver refused to leave the bus. Smart driver. You don't really give in to the kidnapper-hostage situation.
+
+Uh, Sutton reportedly forced the door open and came onto the bus with the handgun. The 19-year-old then waved the gun around and yelled at the driver before leaving the bus and returning to her parked car.
+
+So, cooler heads, I guess, did prevail, only after you committed a felony. So, if you weren't going to go all the way, I don't know why you added the felony.
+
+Crazy.
+
+Uh, here's another little detail that I found funny, because it's like when they kind of reference Urban Decay in an article. It's always fascinating to me. You gotta read between the lines to do the peak appropriate racism.
+
+Uh, officers on scene asked Sutton whether or not she threatened the driver with a handgun, and she reportedly admitted that she was armed during the incident. However, she claimed she did not do anything with it. When one IMPD officer went to Sutton's car to turn down the loud music she was playing, they reportedly found a black handgun under the driver's seat.
+
+So, the cops come to the scene. She's already—she's stashed the gun, but her music is still blasting in the clapped-out Kia, and uh, she just, you know, endangered the lives of 37 kids.
+
+So, I don't think it's good to be bringing a gun to a bus stop. Like,
+
+Yeah, there you go. That's who did it.
+
+Yep.
+
+All right. Well, don't get too down or too depressed. That's the end of Urban Decay, but we're moving on to Uplifting Gold, and we have uplifting stuff today.
+
+Okay. Uh, we have a couple fish-related things. This episode went long because we were obviously off for a week, so whatever. It's probably going to be two hours.
+
+Whatever. Sorry to the editor, Nick.
+
+And if you want more, there's bonus land.
+
+Yeah, but we just gave you a super long episode. You want more?
+
+Well, 30 minutes after that, bonus land tomorrow. You know what to do. Go hit the join button.
+
+All right. First, uh, this guy's doing a joke about releasing this fish near a shark.
+
+Yeah, it's a shark. You see how mad the shark is? So he's like going to release this thing, and the shark's just going in circles, mad. Thought that was so funny.
+
+Okay. Um, next, uh, this was in Cape Cod. Uh, great white shark, right on the beach.
+
+Blood pile. Listening to Atlantis Moriceet. Look at that. That's a great white right there.
+
+Oh, yeah. Isn't that crazy?
+
+Yeah. Yeah. Yeah.
+
+Um, all right. Next, this cat catches a fish. Stray cat on a remote island. He hears the sound. You see him reacting. He's a hunter. And the guy kind of like sets the scene here. It's pretty cool. Have the sunset with the cat, and then he gets it. And then the stray—that's what the stray cat eats. He eats fish. That's cool, right? Isn't that cool?
+
+Yeah. Stray cat catches fish.
+
+Little tiger. They revert to being a little tiger.
+
+Yep. And this guy is Le Oceanian. Yeah. And uh, he was living in Louisiana, and he got deported back to Laos. So now he is a Louisiana-accent English speaker in Laos.
+
+Yeah, I'm out here in Los, man. I don't—I don't know what village I'm at. I'm out here. I got my buddy Kag with me. Yeah, we out here on my—on the scooter, loud style.
+
+Y'all see that? Yeah. And look, this the thing y'all see in LA sometime, bro. When y'all ride, look, got a whole albino ax, man.
+
+Water buffalo.
+
+Yeah, that's pretty cool. He seems like a nice guy, but you still have to go back.
+
+Yeah, that's fine. You know, you can be nice anywhere. Like, that's what I'm saying. I would be so respectful to Indian people if they just stayed in India.
+
+Yeah. You know, that's it.
+
+So true. Um, and also, like if he's in Laos now teaching people English, there's going to be like maybe a—
+
+Yeah. A pocket of like people in Laos that speak English with the Louisiana accent, which like—
+
+Similar to the Red Sox playing the Cubs at Tropicana Field.
+
+It's a glitch.
+
+It's a glitch in the Matrix.
+
+Yeah. And our Pure Americana clip of the week, our last piece of the show, is the Minnesota State Fair goat contest. Is that what it is?
+
+These llamas.
+
+Llamas.
+
+Yeah, they look like llamas. And we'll just kind of show a bunch in the background and go through some of these videos. But what do they do?
+
+They dress up the llamas.
+
+School bus llama. We got Woody, Toy Story llama.
+
+Yeah. Thing One, Thing Two, llama.
+
+So there's like a llama contest in Minnesota, and there's no Somali.
+
+Oh, wait a second.
+
+Wait a sec. Who's this Indian guy or Somali?
+
+Saw him.
+
+Couldn't be there. They don't appreciate this. They don't get why we do this. They go, "Oh, you don't have sex with the llama. You dress him up instead."
+
+That was a low-hanging fruit.
+
+Yeah, it's pretty lowbrow. But you know what? Honestly, speaking of lowbrow, pure racist stuff, or whatever you want to say, we're entitled to a little.
+
+Yeah. After what they did to us, I'm entitled to a little lowbrow, low-effort racism.
+
+Me, too.
+
+All right. We have a couple small business shoutouts. We're going to keep going and doing these all through October. So if you haven't heard yours called yet, it's coming. I have them all in order, and we're working our way through the list. Remember to give these companies five-star reviews if you've used their services, and if you need their services, you hit them up. These are all showing companies, and they're good small business-owning people.
+
+Cool. First is Paul Pavloski. P-A-V-L-O-S-K-I. Polish, right?
+
+Yeah.
+
+Pavloski. Well, and Pump.
+
+It's probably Pavloski, because sometimes they do the W for the V, and Pavlo. So it's everything's linked in the description. So links for all these are going to be at the bottom of the description for the YouTube video. Um, but it's pavloskiwellandpump.com. This is in the Grand Rapids, Michigan area. They do well inspections, well cleanings, chlorination, water sampling, pump and pressure tank replacement, and complete well replacements. So check them out if you guys need some well work. And we have a picture.
+
+It's a nice rig.
+
+We have a picture of them with the rig.
+
+That's a nice rig.
+
+That's pretty cool. I like a Polish guy in Michigan.
+
+Me too. Stand tall, brother.
+
+So, give them a good review if you've used their services, or use their services. Um, Cosmic Mermaid. This is a children's book, and it's on Amazon. Link in the description. It's a great read for boys and girls under seven. The author is a show watcher. Um, and it's a great gift for Christmas or a baby shower. It's called Cosmic Mermaid. It's a show-watcher-authored book by a lovely woman who watches the show. And go get it. Great. Very cool.
+
+And then we also have ftgaccounting.com. So this is a virtual accounting service for individuals or small business owners. They do tax prep, monthly bookkeeping, financial analysis, and consulting in general. These guys are great. ftgaccounting.com, they're linked. Uh, they're super good show watchers, and the guy is a great guy.
+
+Awesome. And then our last small business shoutout is Garbaggen Knight. Knobbaggenknightllc.com. They take your cans to their garbage cans to the curb and back as their business, and it's very affordable, and it's in Monmouth and Ocean County, New Jersey right now, and they're expanding. But it's great for people who are property managers, HOAs, Airbnbs, elderly, or just people who are busy in general.
+
+Yeah. And uh, they'll take your cans to the curb and back for a very affordable price. I think they have 2 weeks free. Try for 14 days for free. And they made a video. This is who we're supporting.
+
+Because words are just words until trash day actually starts. But actions speak louder than words. And words speak louder than actions. But sometimes garbage night can take your hands to the curb, because sometimes listening to a Fleckus Talks podcast is the right thing to do.
+
+Very good.
+
+Garbage night.
+
+Isn't that cool?
+
+Eventually the garbage night they upsell you on the cleaning.
+
+Yeah. Clean the can, too. It's good business.
+
+Of course. Once your can goes bad, it goes bad.
+
+Yeah. This is what white guys are up to now. They have to invent businesses, you know.
+
+We gotta support them. If you're in New Jersey, in those two towns, or Ocean County, or give them a great review if you use their services. They're great.
+
+That's the key.
+
+All right. We have some happy birthdays. We have happy birthday to Tyler on September 26. Him and Pita love the show. We know Pita.
+
+We've heard this name before. We know Pita. Our Latina-type names stand out.
+
+Yes, very much. So, wait, so whose birthday was it?
+
+Tyler's.
+
+Happy birthday, Tyler. And a good day to you, Pita.
+
+Hello, Perita. Um, and they spread the show to everyone they know, which is important. Good.
+
+And then we have a happy birthday to Chandler, who turned 30 on September 21st, and he lives in Hawaii. So him and Lyanna and their dog Chuck love the show.
+
+I didn't know people lived in Hawaii.
+
+It's hard to do. Expensive, you know? They hate white people, and—
+
+Yeah, he could be there for some sort of military reason. Maybe, maybe he's in the hospitality industry.
+
+There's, there's reasons to be in Hawaii. I was joking about I didn't know people could live in Hawaii.
+
+Um, happy birthday to Rich on September 22nd. Rich spent the last year and a half dedicating himself to God and his health and his family, and everyone is loving it. So, good stuff, Rich. Keep up the good work. We love you, too.
+
+There you go. Very nice.
+
+Happy birthday to Sedona. She turned seven last week, and she's been watching the show since before episode 100. We have a picture of her watching here with her brother. We love you guys. God bless. Thank you for watching, and happy birthday.
+
+Happy birthday, Sedona. Look, you're on the show now.
+
+You're on the show. You're right there.
+
+I don't know, man. How comfortable am I with this type of children watching the show?
+
+I think they understand.
+
+Okay. They understand the understandable concepts.
+
+Parental discretion. I guess.
+
+Parental discretion is advised.
+
+Hey, it's your kid.
+
+It's your child.
+
+Yeah, parental discretion is advised.
+
+Yeah, we should say something.
+
+But advised just means you decide.
+
+Yeah. Yeah. Yeah.
+
+Happy birthday to Christina, who turned one year older on September 25th.
+
+Okay. Hey. Uh, she's an amazing mom to her two—to her two girls. She has two daughters with her, and Josh are a nice couple, and uh, they're also bonus landers, and they watch every episode together. So happy birthday, Christina. Sorry I kind of botched it.
+
+Sounds good. Happy birthday, Christina. You sound like my grandma, who was 39 for her whole life.
+
+There you go.
+
+Yeah. One year older. I'm not telling you my age.
+
+Well, I think she just didn't include it.
+
+Okay. And then I just kind of assumed—
+
+She went up a year.
+
+Yes. And then we have a shoutout to Dena, the Beina, and Mace. Congrats on your seventh wedding anniversary. We're really glad you guys love the show. Keep going strong.
+
+Seven more years of marriage, minimum.
+
+Yeah. I don't think you're supposed to say that, you know. Best wishes to everything.
+
+10 more years of marriage. I don't know how—how much you want.
+
+How long are we all really going to—
+
+How much you guys want to do?
+
+Yeah. Till death do his part, I guess.
+
+Death.
+
+Yes. Yes. Exactly. So hopefully you guys are married forever.
+
+All right. All right. Well, that's the end of the show. Thank you guys for watching all the way through on this extra long episode. But you know what? I kind of like a 2-hour episode. Those are rare.
+
+We owe you guys. You know, we owe you. And if you want even more, there was so many things we couldn't cover. There's like this trans crazy killer that we're going to cover in bonus land. Really good bon—probably one of our best bonus lands coming tomorrow. So please hit that join button. You'll see it right here on YouTube. The playlist gets updated. I post it to the group chat. Thank you guys for watching all the way through. Like, share, subscribe, all the good stuff. We will see you at bonus land tomorrow.
+
+When you feel like the world is backwards and upside down, notifications on, and then you hear the sound. We're heading to the bathroom. You know, we gotta go, because Fleckus is a rap, just the show is—Fleckus is the only way to—can be defined. The best news of all time, on the last page of housekeeping. We're letting Fleckus cook. There's a new alien spin. Red boy shoes my love. It's exactly what the Fleckus wouldn't want you to see. But it could be a distraction, and that rings true to me. His tongs. Fleckle the post. The only way to shine can't be defined. The best news podcast of all time. We're yapping in the comments. Yapping in the comments. Don't get too down or too depressed from Cringe of the Week and Urban Decay. This uplifting gold and Fleckus's pets get controlled, coming up to biting your day. The only way the show can be divine. The best news of all time, to keep the PO box full. We won't stop till the world is rid of all the pit bulls. If more Fleckus content is what you demand, then just make sure you're sub to bonus land. Fleckus's best host. Fleckus go and tick all the post. The only way to shine can be defined. The best news of all time. We're watching old episodes. Yeah. Watching old episodes. We're still kicking over stacked rocks. The only way to show can be defined. The best news of all times. Like action with me as I do my makeup before my game in front of thousands of people as a professional baseball player.
