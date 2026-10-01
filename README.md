@@ -29,9 +29,23 @@ uv sync
 
 ## Configuration
 
-Copy [`.env.example`](./.env.example) to `.env` and set `LLM_API_KEY`. The file
-is read from the current directory, the project root, or
-`~/.config/tubestoevsky/.env`.
+Store global settings with:
+
+```console
+$ tubestoevsky config set LLM_API_KEY sk-xxxxx
+$ tubestoevsky config set LLM_MODEL gpt-6-luna
+$ tubestoevsky config get LLM_MODEL
+gpt-6-luna
+```
+
+Settings are saved to `~/.tubestoevsky/config.yaml`.
+
+Precedence: **environment > `config.yaml` > `.env` > default**, with direct CLI
+flags (`--lang`, `--out`, and `--model`) overriding all of those.
+
+`.env` remains supported for existing installations. Copy
+[`.env.example`](./.env.example) to `.env`; it is read from the current
+directory, the project root, or `~/.config/tubestoevsky/.env`.
 
 | Variable | Purpose | Default |
 |---|---|---|
@@ -84,6 +98,7 @@ LLM_API_KEY='sk-xxxxx' tubestoevsky --lang en --model qwen3.8-27b https://youtu.
 Other examples:
 
 ```bash
+tubestoevsky run <URL>
 tubestoevsky <URL>
 tubestoevsky <URL> --lang en --out ./out
 tubestoevsky <URL> --model gpt-6-luna
@@ -100,7 +115,7 @@ uv run python -m transcript_app <URL>
 ```
 transcript_app/
   __main__.py    CLI
-  config.py      .env + CLI flags
+  config.py      YAML + .env + environment + CLI flags
   downloader.py  yt-dlp
   srt.py         subtitle parser
   chain.py       LangChain chain over the API
