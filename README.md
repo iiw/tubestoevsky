@@ -37,7 +37,7 @@ is read from the current directory, the project root, or
 |---|---|---|
 | `LLM_BASE_URL` | OpenAI-compatible endpoint (`/v1` appended when absent) | `http://127.0.0.1:4000` |
 | `LLM_API_KEY` | API key for that endpoint | **required** |
-| `LLM_MODEL` | model name served by it | `gpt-4o-mini` |
+| `LLM_MODEL` | model name served by it | `gpt-6-luna` |
 | `TRANSCRIPT_LANG` | subtitle language | `en` |
 | `OUTPUT_DIR` | output directory | `.` |
 | `LLM_TEMPERATURE` | sampling temperature | `0.3` |
@@ -86,7 +86,7 @@ Other examples:
 ```bash
 tubestoevsky <URL>
 tubestoevsky <URL> --lang en --out ./out
-tubestoevsky <URL> --model gpt-4o-mini
+tubestoevsky <URL> --model gpt-6-luna
 
 # or without installing:
 uvx tubestoevsky <URL>

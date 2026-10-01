@@ -70,7 +70,7 @@ def load_config(
     return Config(
         base_url=base_url,
         api_key=api_key,
-        model=model or os.getenv("LLM_MODEL", "gpt-4o-mini"),
+        model=model or os.getenv("LLM_MODEL", "gpt-6-luna"),
         lang=(lang or os.getenv("TRANSCRIPT_LANG", "en")).lower(),
         output_dir=Path(output_dir or os.getenv("OUTPUT_DIR", ".")).expanduser().resolve(),
         temperature=float(os.getenv("LLM_TEMPERATURE", "0.3")),
